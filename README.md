@@ -113,7 +113,7 @@ This portfolio showcases real-world projects built using leading automation plat
 
 **AI & Data:**
 
-* OpenAI API
+* OpenAI API, Gemini AI, Claude AI
 * Python (for advanced workflows)
 * Google Sheets / Airtable / Notion
 
