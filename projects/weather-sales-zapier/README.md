@@ -1,23 +1,29 @@
-Automated Feedback Analysis Workflow (Make)
-AI-powered system that analyzes customer feedback in real time and alerts teams to critical issues.
+## Automation of Weather-Based Sales and Staffing Decisions (Zapier)
+This project automates daily business decision-making for a small kiosk, by leveraging weather data and AI.
 
-🧠Problem
-Businesses receive large volumes of customer feedback, but manual review is slow, inconsistent, and often delayed. This leads to missed critical issues and poor customer experience.
+## 🧠Problem
+Bayside Brews & Scoops relied on manual weather checks to make daily decisions. This process was:
+  - Time-consuming
+  - Inconsistent
 
-💡Solution
+Prone to human error
+
+The business needed an automated solution to deliver reliable, data-driven insights every day.
+
+## 💡Solution
 This workflow automates the analysis of customer feedback using AI to:
 
 Collects and analyzes customer responses
 Classifies sentiment (Positive / Neutral / Negative)
 Summarizes feedback automatically
 Sends email alerts for negative sentiment
-⚙️Workflow
+## ⚙️Workflow
 Customer submits feedback (Google Forms)
 Triggers the workflow
 Gemini AI analyzes sentiment and extracts insights
 Results are stored in Google Sheets
 Negative feedback triggers Gmail alert ( triggers Slack alert)
-🏗️Architecture
+## 🏗️Architecture
 Architecture
 
 🛠️Tools Used
@@ -29,7 +35,7 @@ Gmail (notifications)
 ⏱️ Reduced manual review time by 80%
 ⚡ Instant detection of negative feedback
 📈 Improved response time to customer issues
-📥 Sample Input / Output
+## 📥 Sample Input / Output
 Sample Input
 
 "The service was slow and the staff was rude."
@@ -39,10 +45,10 @@ Sample Output
 Sentiment: Negative
 Keywords: slow service, rude staff
 Summary: Customer dissatisfied with service speed and staff behavior
-📸Screenshots
+## 📸Screenshots
 WorkFlow
 
-🚀Future Improvements
+## 🚀Future Improvements
 Add visual dashboards (Looker Studio/Power BI) for trend analysis
 Integrate Slack or Teams alerts for faster response
 Expand to multilingual sentiment analysis for global feedback
