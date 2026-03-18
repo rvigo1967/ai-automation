@@ -7,7 +7,8 @@ Bayside Brews & Scoops relied on manual weather checks to make daily decisions. 
   - Time-consuming
   - Inconsistent
   - Prone to human error
-The business needed an automated solution to deliver reliable, data-driven insights every day.
+    
+ The business needed an automated solution to deliver reliable, data-driven insights every day.
 
 ## 💡Solution
 This workflow automates the analysis of customer feedback using AI to:
