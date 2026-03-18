@@ -39,14 +39,17 @@ Main Components:
 Architecture
 
 ## 🛠️Tools Used
-Make (workflow automation)
+
+Zapier (workflow automation)
 GemeniAI API (NLP processing)
-Google Sheets (data storage)
+OpenWeather API (Data Source)
 Gmail (notifications)
-📊 Results / Business Impact (CRITICAL)
+
+## 📊 Results / Business Impact (CRITICAL)
 ⏱️ Reduced manual review time by 80%
 ⚡ Instant detection of negative feedback
 📈 Improved response time to customer issues
+
 ## 📥 Sample Input / Output
 Sample Input
 
