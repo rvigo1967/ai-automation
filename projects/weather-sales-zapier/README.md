@@ -36,7 +36,7 @@ Main Components:
 - Output: Email notification
   
 ## 🏗️Architecture
-Architecture
+![Architecture](./architecturediagram1.png)
 
 ## 🛠️Tools Used
 
