@@ -27,11 +27,14 @@ An automated workflow that:
 ⚠️ Severe weather conditions trigger an additional alert for quick preparation.
 
 ## ⚙️Workflow
-Customer submits feedback (Google Forms)
-Triggers the workflow
-Gemini AI analyzes sentiment and extracts insights
-Results are stored in Google Sheets
-Negative feedback triggers Gmail alert ( triggers Slack alert)
+Main Components:
+
+- Trigger: Scheduled automation (Zapier)
+- Data Source: OpenWeather API
+- AI Processing: Google Gemini
+- Formatting: Zapier Formatter
+- Output: Email notification
+  
 ## 🏗️Architecture
 Architecture
 
