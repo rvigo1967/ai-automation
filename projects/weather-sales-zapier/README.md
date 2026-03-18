@@ -11,12 +11,21 @@ Bayside Brews & Scoops relied on manual weather checks to make daily decisions. 
  The business needed an automated solution to deliver reliable, data-driven insights every day.
 
 ## 💡Solution
-This workflow automates the analysis of customer feedback using AI to:
 
-Collects and analyzes customer responses
-Classifies sentiment (Positive / Neutral / Negative)
-Summarizes feedback automatically
-Sends email alerts for negative sentiment
+An automated workflow that:
+
+1. Runs daily at 7:00 AM
+2. Retrieves Miami weather data using OpenWeather API
+3. Sends the data to Gemini AI for interpretation
+4. Generates:
+
+      - Product recommendations
+      - Staffing suggestions
+      - Two promotional messages
+
+Emails a structured summary to the manager
+
+⚠️ Severe weather conditions trigger an additional alert for quick preparation.
 ## ⚙️Workflow
 Customer submits feedback (Google Forms)
 Triggers the workflow
