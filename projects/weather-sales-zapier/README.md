@@ -12,7 +12,7 @@ Bayside Brews & Scoops relied on manual weather checks to make daily decisions. 
 
 ## 💡Solution
 
-An automated workflow that:
+** An automated workflow that: **
 
 1. Runs daily at 7:00 AM
 2. Retrieves Miami weather data using OpenWeather API
