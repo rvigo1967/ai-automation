@@ -22,10 +22,10 @@ An automated workflow that:
       - Product recommendations
       - Staffing suggestions
       - Two promotional messages
-
-Emails a structured summary to the manager
+      - Emails a structured summary to the manager
 
 ⚠️ Severe weather conditions trigger an additional alert for quick preparation.
+
 ## ⚙️Workflow
 Customer submits feedback (Google Forms)
 Triggers the workflow
