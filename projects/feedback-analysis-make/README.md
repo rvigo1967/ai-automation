@@ -41,11 +41,11 @@ This workflow automates the analysis of customer feedback using AI to:
 
 ## 📥 Sample Input / Output
 
-  ## Sample Input
+   Sample Input
   
   "The service was slow and the staff was rude."
   
-  ## Sample Output
+   Sample Output
   
   - Sentiment: Negative  
   - Keywords: slow service, rude staff  
