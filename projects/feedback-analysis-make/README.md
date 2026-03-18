@@ -50,3 +50,7 @@ This workflow automates the analysis of customer feedback using AI to:
   - Sentiment: Negative  
   - Keywords: slow service, rude staff  
   - Summary: Customer dissatisfied with service speed and staff behavior
+
+## Screenshots
+
+![WorkFlow](./workflowimage.png)
