@@ -45,7 +45,7 @@ Main Components:
 - OpenWeather API (Data Source)
 - Gmail (notifications)
 
-## 📊 Results / Business Impact (CRITICAL)
+## 📈 Benefits
 
 **1. Faster, Data-Driven Decisions**
    - Eliminates manual weather checks
@@ -59,20 +59,33 @@ Main Components:
    - Aligns product offerings with weather demand
    - Improves promotional targeting
 
-## 📥 Sample Input / Output
-Sample Input
-
-"The service was slow and the staff was rude."
-
-Sample Output
-
-Sentiment: Negative
-Keywords: slow service, rude staff
-Summary: Customer dissatisfied with service speed and staff behavior
 ## 📸Screenshots
-WorkFlow
+![Workflow](./zapierworkflow.png)
 
-## 🚀Future Improvements
-Add visual dashboards (Looker Studio/Power BI) for trend analysis
-Integrate Slack or Teams alerts for faster response
-Expand to multilingual sentiment analysis for global feedback
+## Areas for Improvement
+
+**1. API Setup Complexity**
+  - Issue: OpenWeather API setup required manual configuration
+  - Improvement:
+         - Use reusable API templates
+         - Consider native Zapier integrations
+
+**2. AI Output Formatting**
+
+Issue: Inconsistent AI responses
+
+Improvement:
+
+Use structured JSON prompts
+
+Standardize output fields
+
+3. Error Handling
+
+Issue: Workflow continues even if failures occur
+
+Improvement:
+
+Add validation filters
+
+Use conditional paths for missing data
