@@ -14,7 +14,7 @@ This workflow automates the analysis of customer feedback using AI to:
 - Summarizes feedback automatically
 - Sends email alerts for negative sentiment
 
-## Workflow
+## ⚙️Workflow
 
 1. Customer submits feedback (Google Forms)
 2. Triggers the workflow
@@ -22,7 +22,7 @@ This workflow automates the analysis of customer feedback using AI to:
 4. Results are stored in Google Sheets
 5. Negative feedback triggers Gmail alert ( triggers Slack alert)
 
-🏗️ Architecture
+## 🏗️Architecture
 
 ![Architecture](./architecture.png)
 
