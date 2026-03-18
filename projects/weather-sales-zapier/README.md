@@ -26,7 +26,7 @@ Negative feedback triggers Gmail alert ( triggers Slack alert)
 ## 🏗️Architecture
 Architecture
 
-🛠️Tools Used
+## 🛠️Tools Used
 Make (workflow automation)
 GemeniAI API (NLP processing)
 Google Sheets (data storage)
