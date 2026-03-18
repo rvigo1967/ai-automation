@@ -38,3 +38,13 @@ This workflow automates the analysis of customer feedback using AI to:
 - ⏱️ Reduced manual review time by 80%
 - ⚡ Instant detection of negative feedback
 - 📈 Improved response time to customer issues
+
+## 📥Sample Input
+
+"The service was slow and the staff was rude."
+
+## Sample Output
+
+- Sentiment: Negative  
+- Keywords: slow service, rude staff  
+- Summary: Customer dissatisfied with service speed and staff behavior
