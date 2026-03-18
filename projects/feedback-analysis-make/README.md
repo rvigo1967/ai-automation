@@ -33,7 +33,7 @@ This workflow automates the analysis of customer feedback using AI to:
 - Google Sheets (data storage)
 - Gmail (notifications)
 
-## Results
+## 📊 Results / Business Impact (CRITICAL)
 
 - ⏱️ Reduced manual review time by 80%
 - ⚡ Instant detection of negative feedback
