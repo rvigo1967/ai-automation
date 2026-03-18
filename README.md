@@ -169,7 +169,7 @@ I focus on building **automation systems that generate measurable ROI**, not jus
 ## 🔗 Let’s Connect
 
 * GitHub: (your profile link)
-* LinkedIn: (your link)
+* LinkedIn: www.linkedin.com/in/raisavigofonseca
 * Email: (your email)
 
 ---
