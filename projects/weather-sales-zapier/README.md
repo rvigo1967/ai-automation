@@ -75,5 +75,5 @@ Main Components:
 
 **3. Error Handling**
 
-  -**Issue:** Workflow continues even if failures occur
+  - **Issue:** Workflow continues even if failures occur
   - **Improvement:** Add validation filters, Use conditional paths for missing data.
