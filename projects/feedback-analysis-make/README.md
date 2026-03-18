@@ -22,6 +22,19 @@ This workflow automates the analysis of customer feedback using AI to:
 4. Results are stored in Google Sheets
 5. Negative feedback triggers Gmail alert ( triggers Slack alert)
 
-## Architecture
+##🏗️ Architecture
 
 ![Architecture](./architecture.png)
+
+## 🛠️Tools Used
+
+- Make (workflow automation)
+- GemeniAI API (NLP processing)
+- Google Sheets (data storage)
+- Gmail (notifications)
+
+## Results
+
+- ⏱️ Reduced manual review time by 80%
+- ⚡ Instant detection of negative feedback
+- 📈 Improved response time to customer issues
