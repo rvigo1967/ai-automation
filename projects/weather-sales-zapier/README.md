@@ -2,12 +2,11 @@
 This project automates daily business decision-making for a small kiosk, by leveraging weather data and AI.
 
 ## 🧠Problem
+
 Bayside Brews & Scoops relied on manual weather checks to make daily decisions. This process was:
   - Time-consuming
   - Inconsistent
-
-Prone to human error
-
+  - Prone to human error
 The business needed an automated solution to deliver reliable, data-driven insights every day.
 
 ## 💡Solution
