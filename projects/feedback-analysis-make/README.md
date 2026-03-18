@@ -54,3 +54,10 @@ This workflow automates the analysis of customer feedback using AI to:
 ## 📸Screenshots
 
 ![WorkFlow](./workflowimage.png)
+
+## 🚀Future Improvements
+
+- Add visual dashboards (Looker Studio/Power BI) for trend analysis
+- Integrate Slack or Teams alerts for faster response
+- Expand to multilingual sentiment analysis for global feedback
+
