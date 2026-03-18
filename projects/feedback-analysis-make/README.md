@@ -2,11 +2,11 @@
 
 AI-powered system that analyzes customer feedback in real time and alerts teams to critical issues.
 
-## Problem
+## 🧠Problem
 
 Businesses receive large volumes of customer feedback, but manual review is slow, inconsistent, and often delayed. This leads to missed critical issues and poor customer experience.
 
-## Solution
+## 💡Solution
 
 This workflow automates the analysis of customer feedback using AI to:
 - Collects and analyzes customer responses
