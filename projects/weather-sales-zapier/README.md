@@ -40,10 +40,10 @@ Architecture
 
 ## 🛠️Tools Used
 
-Zapier (workflow automation)
-GemeniAI API (NLP processing)
-OpenWeather API (Data Source)
-Gmail (notifications)
+- Zapier (workflow automation)
+- GemeniAI API (NLP processing)
+- OpenWeather API (Data Source)
+- Gmail (notifications)
 
 ## 📊 Results / Business Impact (CRITICAL)
 ⏱️ Reduced manual review time by 80%
