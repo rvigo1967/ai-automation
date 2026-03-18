@@ -24,7 +24,7 @@ This workflow automates the analysis of customer feedback using AI to:
 
 ## 🏗️Architecture
 
-![Architecture](./architecture.png)
+![Architecture](./architecturediagram.png)
 
 ## 🛠️Tools Used
 
