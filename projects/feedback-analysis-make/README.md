@@ -22,7 +22,7 @@ This workflow automates the analysis of customer feedback using AI to:
 4. Results are stored in Google Sheets
 5. Negative feedback triggers Gmail alert ( triggers Slack alert)
 
-##🏗️ Architecture
+🏗️ Architecture
 
 ![Architecture](./architecture.png)
 
