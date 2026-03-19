@@ -20,22 +20,17 @@ Automate invoice processing and generate a structured report of invoices due by 
 ## 💡Solution
 **The solution leverages UiPath Document Understanding and Generative AI to automate invoice processing:**
 
-- 📂 **Automated File Ingestion**
+- 📂 **Automated File Ingestion:**
 Reads invoices directly from Google Drive
-
-- 🔍 **Data Extraction**
+- 🔍 **Data Extraction:**
 Extracts key fields (amounts, dates, vendors, etc.)
-
-🤖 AI-Powered Descriptions
+- 🤖 **AI-Powered Descriptions:**
 Generates short purchase summaries using GenAI
-
-⚠️ Confidence Validation
+- ⚠️ **Confidence Validation:**
 Flags low-confidence totals for human review
-
-📅 Date Filtering
+- 📅 **Date Filtering:**
 Filters invoices due on or before Sept 22, 2025
-
-📊 Structured Output
+- 📊 **Structured Output:**
 Writes clean, organized data into Google Sheets
 
 ## 📊 Structured Output
