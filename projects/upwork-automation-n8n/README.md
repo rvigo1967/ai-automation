@@ -78,8 +78,7 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
      - Generated proposal
      - Direct links
 
-📩 Real-Time Notifications
+**📩 Real-Time Notifications**
 
-Sends alerts via Telegram
-
-Notifies when proposals are ready
+- Sends alerts via Telegram
+- Notifies when proposals are ready
