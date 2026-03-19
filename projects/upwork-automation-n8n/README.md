@@ -82,3 +82,14 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 - Sends alerts via Telegram
 - Notifies when proposals are ready
+
+ ## 📸 Visual Results
+**🖥️ n8n Workflow**
+
+![Workflow](./workflows/n8narchitecturediagram.png)
+
+
+**📊 Output Dashboard (Google Sheets)**
+
+![Output](./data/n8narchitecturediagram.png)
+
