@@ -78,15 +78,12 @@ Writes clean, organized data into Google Sheets
 - Google Sheets integration edge cases
 - Handling extraction confidence thresholds
 
-🔧 Improvements (Next Iteration)
+🔧 **Improvements (Next Iteration)**
 
-Stronger error-handling framework
-
-Enhanced data validation pipeline
-
-More maintainable and modular components
-
-Improved date normalization logic
+- Stronger error-handling framework
+- Enhanced data validation pipeline
+- More maintainable and modular components
+- Improved date normalization logic
 
 
 ## 🚀Future Improvements
