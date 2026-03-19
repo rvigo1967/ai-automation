@@ -86,7 +86,7 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
  ## 📸 Visual Results
 **🖥️ n8n Workflow**
 
-![Workflow](./workflows/n8narchitecturediagram.png)
+![Workflow](./workflows/n8nworkflow.png)
 
 
 **📊 Output Dashboard (Google Sheets)**
