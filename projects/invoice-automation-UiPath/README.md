@@ -4,28 +4,33 @@ This project automates the end-to-end process of invoice reporting using UiPath 
 ## 🧠Problem
 Businesses receive large volumes of customer feedback, but manual review is slow, inconsistent, and often delayed. This leads to missed critical issues and poor customer experience.
 
-💡Solution
+## 💡Solution
 This workflow automates the analysis of customer feedback using AI to:
 
 Collects and analyzes customer responses
 Classifies sentiment (Positive / Neutral / Negative)
 Summarizes feedback automatically
 Sends email alerts for negative sentiment
-⚙️Workflow
+## ⚙️Workflow
+
 Customer submits feedback (Google Forms)
 Triggers the workflow
 Gemini AI analyzes sentiment and extracts insights
 Results are stored in Google Sheets
 Negative feedback triggers Gmail alert ( triggers Slack alert)
-🏗️Architecture
+
+## 🏗️Architecture
 Architecture
 
-🛠️Tools Used
-Make (workflow automation)
-GemeniAI API (NLP processing)
-Google Sheets (data storage)
-Gmail (notifications)
-📊 Results / Business Impact (CRITICAL)
+## 🛠️Tools Used
+
+- UiPath
+- Google Drive
+- Google Sheets
+- Generative AI
+
+
+## 📊 Results / Business Impact (CRITICAL)
 ⏱️ Reduced manual review time by 80%
 ⚡ Instant detection of negative feedback
 📈 Improved response time to customer issues
