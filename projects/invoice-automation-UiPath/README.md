@@ -19,12 +19,25 @@ This project automates the end-to-end process of invoice reporting using UiPath 
 - Filters invoices due by September 22, 2025
 
 ## 💡Solution
-This workflow automates the analysis of customer feedback using AI to:
+The solution leverages UiPath Document Understanding and Generative AI to automate invoice processing:
 
-Collects and analyzes customer responses
-Classifies sentiment (Positive / Neutral / Negative)
-Summarizes feedback automatically
-Sends email alerts for negative sentiment
+1. 📂 Automated File Ingestion:
+      - Reads invoices directly from Google Drive
+
+2. 🔍 Data Extraction
+     - Extracts key fields (amounts, dates, vendors, etc.)
+
+3. 🤖 AI-Powered Descriptions
+Generates short purchase summaries using GenAI
+
+⚠️ Confidence Validation
+Flags low-confidence totals for human review
+
+📅 Date Filtering
+Filters invoices due on or before Sept 22, 2025
+
+📊 Structured Output
+Writes clean, organized data into Google Sheets
 ## ⚙️Workflow
 
 Customer submits feedback (Google Forms)
