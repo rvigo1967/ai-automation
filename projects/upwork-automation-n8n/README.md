@@ -25,3 +25,76 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 🔄 End-to-End Workflow (Mermaid)
 
 ![Architecture](./n8narchitecturediagram.png)
+
+## 🧠 Key Features
+
+**🌐 Automated Job Discovery**
+
+- Scrapes Upwork jobs using Apify
+- Runs on a scheduled trigger (daily automation)
+
+**📊 Intelligent Client Scoring**
+
+Weighted scoring system (0–5 scale):
+
+⭐ Rating (35%)
+
+📈 Hire rate (25%)
+
+💰 Spend (20%)
+
+🔁 Repeat hires (10%)
+
+✔️ Payment verification (10%)
+
+⚠️ Quality Filtering
+
+Automatically filters out low-quality clients
+
+Only processes jobs with client score > 4
+
+🧠 AI Job Relevance Scoring
+
+Evaluates:
+
+Skill match (automation / n8n)
+
+Budget fit
+
+Job type
+
+Client quality
+
+Outputs:
+
+Score (1–5)
+
+Explanation for transparency
+
+✍️ AI Proposal Generation
+
+Rewrites a high-conversion proposal template
+
+Customizes content per job description
+
+Maintains consistent tone and structure
+
+📊 Centralized Tracking
+
+Stores approved jobs in Google Sheets
+
+Includes:
+
+Job details
+
+Scores
+
+Generated proposal
+
+Direct links
+
+📩 Real-Time Notifications
+
+Sends alerts via Telegram
+
+Notifies when proposals are ready
