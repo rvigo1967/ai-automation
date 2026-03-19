@@ -140,11 +140,17 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - 📬 Multi-channel notifications
 - 🧠 Advanced job matching (semantic search)  
 
-## 📁 Project Structure
+## ▶️ How to Run
 
-📦 upwork-automation-n8n
-   ┣ 📂 workflows/        # n8n workflow exports
-   ┣ 📂 data/             # Sample job data
-   ┣ 📂 output/           # Results / screenshots
-   ┣ 📄 README.md
+1. Import workflow into n8n
+2. Configure credentials:
+
+     - Apify API
+     - OpenAI API
+     - Google Sheets
+     - Telegram Bot
+
+3. Set schedule trigger
+4. Run workflow
+5. Monitor results in Google Sheets
 
