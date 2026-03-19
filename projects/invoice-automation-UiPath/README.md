@@ -44,9 +44,14 @@ Writes clean, organized data into Google Sheets
 - Generative AI
 
 ## 📊 Results / Business Impact (CRITICAL)
-⏱️ Reduced manual review time by 80%
-⚡ Instant detection of negative feedback
-📈 Improved response time to customer issues
+
+| Metric              | Improvement              |
+| ------------------- | ------------------------ |
+| ⏱️ Processing Time  | Significantly reduced    |
+| 🎯 Accuracy         | Increased via validation |
+| 🧑‍💼 Manual Effort | Minimized                |
+| 📊 Decision Speed   | Faster with AI summaries |
+
 
 ## 📸Visual Results
 
