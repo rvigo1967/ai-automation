@@ -154,3 +154,7 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 4. Run workflow
 5. Monitor results in Google Sheets
 
+## 👩‍💻 Author
+
+**Raisa Vigo Fonseca**
+**AI Automation | RPA | Data Solutions**
