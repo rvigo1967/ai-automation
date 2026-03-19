@@ -6,3 +6,19 @@
 This project automates the **entire Upwork job acquisition pipeline**—from job discovery to proposal generation—using **n8n workflows, AI, and structured scoring logic.**
 
 Instead of manually searching and applying to jobs, the system identifies high-quality opportunities, scores them intelligently, and generates tailored proposals automatically.
+
+## 🎯 Business Problem
+
+Freelance job hunting is inefficient and inconsistent:
+
+- ⏳ Time-consuming manual job searches
+- 🔍 Repetitive job and client evaluation
+- ❌ Inconsistent decision-making
+- ✍️ Manual proposal writing
+- 📉 Missed high-quality opportunities
+
+**Goal:**
+Build a system that focuses only on high-value, high-fit jobs and automates the rest.
+
+## 💡 Solution Architecture
+🔄 End-to-End Workflow (Mermaid)
