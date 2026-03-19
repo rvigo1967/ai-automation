@@ -50,10 +50,12 @@ Writes clean, organized data into Google Sheets
 
 ## 📸Visual Results
 
-- 📊 **Output(Google Sheets)**
+1. 📊 **Output(Google Sheets)**
+ 
 ![Output](./googlesheetscrenshot.png)
 
-🖥️ **Workflow Execution**
+2. 🖥️ **Workflow Execution**
+   
 ![Workflow](./uipathworkflow.png)
 
 ## 🚀Future Improvements
