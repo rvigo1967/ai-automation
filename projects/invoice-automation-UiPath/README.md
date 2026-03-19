@@ -38,10 +38,11 @@ Writes clean, organized data into Google Sheets
 
 ## 🛠️Tools Used
 
-- UiPath
-- Google Drive
-- Google Sheets
-- Generative AI
+- RPA: UiPath
+- AI: Generative AI (for descriptions)
+- Storage: Google Drive
+- Output: Google Sheets
+- Automation Type: Unattended Workflow
 
 ## 📊 Results / Business Impact (CRITICAL)
 
