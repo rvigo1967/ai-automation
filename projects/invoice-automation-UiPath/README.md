@@ -69,7 +69,7 @@ Keywords: slow service, rude staff
 Summary: Customer dissatisfied with service speed and staff behavior
 
 ## 📸Screenshots
-WorkFlow
+![Workflow](./uipathworkflow.png)
 
 ## 🚀Future Improvements
 
