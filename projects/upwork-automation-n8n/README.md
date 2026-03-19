@@ -102,3 +102,14 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 | 📈 Conversion Potential | Improved with tailored AI proposals     |
 | 🔄 Scalability          | Fully automated pipeline                |
 
+## ⚙️ Tech Stack
+
+- **Automation:** n8n
+- **AI Engine:** OpenAI
+- **Scraping:** Apify
+- **Storage:** Google Sheets
+- **Notifications:** Telegram
+- **Workflow Type:** Scheduled Automation
+
+  
+
