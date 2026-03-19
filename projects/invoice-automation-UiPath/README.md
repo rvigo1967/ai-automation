@@ -33,8 +33,6 @@ Filters invoices due on or before Sept 22, 2025
 - 📊 **Structured Output:**
 Writes clean, organized data into Google Sheets
 
-## 📊 Structured Output
-Writes clean, organized data into Google Sheets
 ## ⚙️Workflow
 
 Customer submits feedback (Google Forms)
@@ -44,7 +42,7 @@ Results are stored in Google Sheets
 Negative feedback triggers Gmail alert ( triggers Slack alert)
 
 ## 🏗️Architecture
-Architecture
+![Architecture](./Uipatharchitecturediagram.png)
 
 ## 🛠️Tools Used
 
