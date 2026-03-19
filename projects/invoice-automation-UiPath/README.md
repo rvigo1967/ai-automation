@@ -64,6 +64,31 @@ Writes clean, organized data into Google Sheets
    
 ![Workflow](./uipathworkflow.png)
 
+## 🧩 Challenges & Engineering Decisions
+
+✅ **What Worked Well**
+
+- Seamless invoice ingestion and extraction
+- Consistent and meaningful AI-generated descriptions
+- Modular workflow design
+
+⚠️**Challenges**
+
+- Complex date filtering logic
+- Google Sheets integration edge cases
+- Handling extraction confidence thresholds
+
+🔧 Improvements (Next Iteration)
+
+Stronger error-handling framework
+
+Enhanced data validation pipeline
+
+More maintainable and modular components
+
+Improved date normalization logic
+
+
 ## 🚀Future Improvements
 
 Add visual dashboards (Looker Studio/Power BI) for trend analysis
