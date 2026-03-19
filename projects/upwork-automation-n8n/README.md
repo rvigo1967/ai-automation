@@ -91,5 +91,5 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 **📊 Output Dashboard (Google Sheets)**
 
-![Output](./data/n8narchitecturediagram.png)
+![Output](./output/n8googlespread.png)
 
