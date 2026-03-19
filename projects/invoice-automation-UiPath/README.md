@@ -34,7 +34,8 @@ Architecture
 ⏱️ Reduced manual review time by 80%
 ⚡ Instant detection of negative feedback
 📈 Improved response time to customer issues
-📥 Sample Input / Output
+
+## 📥 Sample Input / Output
 Sample Input
 
 "The service was slow and the staff was rude."
@@ -44,10 +45,12 @@ Sample Output
 Sentiment: Negative
 Keywords: slow service, rude staff
 Summary: Customer dissatisfied with service speed and staff behavior
-📸Screenshots
+
+## 📸Screenshots
 WorkFlow
 
-🚀Future Improvements
+## 🚀Future Improvements
+
 Add visual dashboards (Looker Studio/Power BI) for trend analysis
 Integrate Slack or Teams alerts for faster response
 Expand to multilingual sentiment analysis for global feedback
