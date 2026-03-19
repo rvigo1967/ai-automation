@@ -93,3 +93,12 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 ![Output](./output/n8googlespread.png)
 
+## 🚀 Business Impact
+
+| Area                    | Impact                                  |
+| ----------------------- | --------------------------------------- |
+| ⏱️ Time Savings         | Eliminates daily manual job search      |
+| 🎯 Focus                | Targets only high-quality opportunities |
+| 📈 Conversion Potential | Improved with tailored AI proposals     |
+| 🔄 Scalability          | Fully automated pipeline                |
+
