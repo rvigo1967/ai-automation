@@ -77,7 +77,7 @@ This portfolio showcases real-world projects built using leading automation plat
 * ⚡ 70–90% faster processing
 * ❌ Reduced human error
 
-👉 [View Project](./projects/invoice-automation-uipath)
+👉 [View Project](./projects/invoice-automation-UiPath)
 
 ---
 
