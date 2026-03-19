@@ -48,17 +48,14 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - Automatically filters out low-quality clients
 - Only processes jobs with client score > 4
 
-🧠 AI Job Relevance Scoring
+**🧠 AI Job Relevance Scoring**
 
-Evaluates:
+- Evaluates:
 
-Skill match (automation / n8n)
-
-Budget fit
-
-Job type
-
-Client quality
+     - Skill match (automation / n8n)
+     - Budget fit
+     - Job type
+     - Client quality
 
 Outputs:
 
