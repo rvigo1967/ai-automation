@@ -23,3 +23,5 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 ## 💡 Solution Architecture
 🔄 End-to-End Workflow (Mermaid)
+
+![Architecture](./n8narchitecturediagram.png)
