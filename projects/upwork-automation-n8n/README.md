@@ -143,8 +143,8 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 ## 📁 Project Structure
 
 📦 upwork-automation-n8n
- ┣ 📂 workflows/        # n8n workflow exports
- ┣ 📂 data/             # Sample job data
- ┣ 📂 output/           # Results / screenshots
- ┣ 📄 README.md
+   ┣ 📂 workflows/        # n8n workflow exports
+   ┣ 📂 data/             # Sample job data
+   ┣ 📂 output/           # Results / screenshots
+   ┣ 📄 README.md
 
