@@ -18,7 +18,8 @@ Freelance job hunting is inefficient and inconsistent:
 - 📉 Missed high-quality opportunities
 
 **Goal:**
-Build a system that focuses only on high-value, high-fit jobs and automates the rest.
+
+Build a system that focuses only on **high-value, high-fit jobs** and automates the rest.
 
 ## 💡 Solution Architecture
 🔄 End-to-End Workflow (Mermaid)
