@@ -7,21 +7,15 @@ This project demonstrates how Robotic Process Automation (RPA) combined with Gen
 The solution processes invoices from ingestion to reporting, eliminating repetitive tasks while improving accuracy and speed.
 
 ## 🧠Problem
-**Organizations often rely on manual processes to review invoices, which leads to:**
+**Manual invoice processing creates operational bottlenecks:**
 
-- Time-consuming data entry
-- Higher risk of human error
-- Lack of structured reporting
-- Delayed financial insights
+- ⏳ Time-intensive data entry
+- ❌ Human errors in financial data
+- 📉 Lack of real-time visibility
+- 🧾 Unstructured invoice information
 
-**The goal was to build an automated workflow that:**
-
-- Reads invoices from Google Drive
-- Extracts key invoice fields
-- Generates purchase descriptions
-- Populates a reporting sheet
-- Flags low-confidence data for review
-- Filters invoices due by September 22, 2025
+**Objective:**
+Automate invoice processing and generate a structured report of invoices due by September 22, 2025, with intelligent validation and summaries.
 
 ## 💡Solution
 The solution leverages UiPath Document Understanding and Generative AI to automate invoice processing:
