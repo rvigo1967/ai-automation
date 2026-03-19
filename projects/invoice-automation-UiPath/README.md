@@ -33,14 +33,6 @@ Filters invoices due on or before Sept 22, 2025
 - 📊 **Structured Output:**
 Writes clean, organized data into Google Sheets
 
-## ⚙️Workflow
-
-Customer submits feedback (Google Forms)
-Triggers the workflow
-Gemini AI analyzes sentiment and extracts insights
-Results are stored in Google Sheets
-Negative feedback triggers Gmail alert ( triggers Slack alert)
-
 ## 🏗️Architecture
 ![Architecture](./Uipatharchitecturediagram.png)
 
@@ -51,24 +43,17 @@ Negative feedback triggers Gmail alert ( triggers Slack alert)
 - Google Sheets
 - Generative AI
 
-
 ## 📊 Results / Business Impact (CRITICAL)
 ⏱️ Reduced manual review time by 80%
 ⚡ Instant detection of negative feedback
 📈 Improved response time to customer issues
 
-## 📥 Sample Input / Output
-Sample Input
+## 📸Visual Results
 
-"The service was slow and the staff was rude."
+- 📊 **Output(Google Sheets)**
+![Output](./googlesheetscrenshot.png)
 
-Sample Output
-
-Sentiment: Negative
-Keywords: slow service, rude staff
-Summary: Customer dissatisfied with service speed and staff behavior
-
-## 📸Screenshots
+🖥️ **Workflow Execution**
 ![Workflow](./uipathworkflow.png)
 
 ## 🚀Future Improvements
