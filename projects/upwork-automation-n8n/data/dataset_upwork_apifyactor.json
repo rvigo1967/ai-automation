@@ -1,0 +1,3317 @@
+[{
+  "id": 0,
+  "type": "private",
+  "type_description": "return simplify job info - Access is restricted to registered users only.",
+  "title": "H^n8n^H H^Automation^H Specialist (Google Drive, QuickBooks, and Teams/Gmail Calendar Integration)",
+  "link": "https://www.upwork.com/jobs/~022018354745439069253",
+  "data": {
+    "id": "2018354745439069253",
+    "title": "H^n8n^H H^Automation^H Specialist (Google Drive, QuickBooks, and Teams/Gmail Calendar Integration)",
+    "description": "We are hiring an experienced H^n8n^H H^automation^H specialist to build a self-hosted, production-ready workflow that H^automates^H intake via a Form, document handling via Google Drive, scheduling via MS Teams or Google Calendar, invoicing via Quickbooks, and follow-ups for an operations-based business.\n\nThis is not a Zapier or beginner H^n8n^H project. You must be comfortable working in a self-hosted H^n8n^H environment and building reliable, multi-step workflows with conditional logic, external integrations, and error handling.\n\nHigh-Level Scope:\n\nPublic intake via H^n8n^H form or webhook\n\nConditional routing based on service type\n\nGoogle Drive H^automation^H\n\n    -Folder creation\n\n    -File uploads\n\n    -Permission assignment\n\nQuickBooks Online H^automation^H\n\n    -Project creation\n\n    -Draft invoice generation\n\nCalendar and Microsoft Teams meeting H^automation^H\n\nH^Automated^H confirmation emails\n\nTime-based logic (including a 48-hour pre-event trigger)\n\nReadiness checklist form with required acknowledgments\n\nCentralized audit log and error handling\n\nDetailed requirements will be provided after selection.\n\n\nTimeline and Budget:\n\nFixed price: $400 USD + $100 Potential Bonus\n\nTimeline: 2 weeks\n\nWeek 1: MVP\n\nWeek 2/3: Final version after user testing\n\nBonus: $100 USD if final version is accepted by the end of Week 3\n\n\nRequirements:\n\nProven experience with self-hosted H^n8n^H\n\nExperience integrating:\n\nGoogle Drive\n\nQuickBooks Online\n\nCalendars and Microsoft Teams\n\nComfortable with long-running workflows, wait logic, and error handling\n\nLoom video/other recording format to provide a walkthrough of the final H^n8n^H workflow and point out potential points of failure and how to maintain the workflow.\n\nHow to Apply:\n\n*MUST* The first word in your proposal should include the answer to the calculation of 2 + 2 = X to provide proof that you've read the posting.\n\nPlease include:\n\nA brief summary of your H^n8n^H experience\n\nOne example of a complex H^automation^H you have built that includes most if not all of the integrations that are required in this job posting (Quickbooks, Google Drive, MS Teams / Google Calendar, emails with conditional time-based logic)\n\nConfirmation you can meet the 2-week timeline\n\nGeneric proposals will be ignored.",
+    "relevanceEncoded": "{\"position\":\"0\"}",
+    "ontologySkills": [
+      {
+        "uid": "1733104400597401607",
+        "parentSkillUid": null,
+        "prefLabel": "n8n",
+        "prettyName": "n8n",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1031626717876699136",
+        "parentSkillUid": null,
+        "prefLabel": "Automation",
+        "prettyName": "Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1110580584353615872",
+        "parentSkillUid": null,
+        "prefLabel": "Google Workspace",
+        "prettyName": "Google Workspace",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626742073638912",
+        "parentSkillUid": null,
+        "prefLabel": "Google Docs",
+        "prettyName": "Google Docs",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626730136649728",
+        "parentSkillUid": null,
+        "prefLabel": "Data Entry",
+        "prettyName": "Data Entry",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626758615973888",
+        "parentSkillUid": null,
+        "prefLabel": "Microsoft Excel",
+        "prettyName": "Microsoft Excel",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626742425960448",
+        "parentSkillUid": null,
+        "prefLabel": "Google Sheets",
+        "prettyName": "Google Sheets",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626749342367744",
+        "parentSkillUid": null,
+        "prefLabel": "Intuit QuickBooks",
+        "prettyName": "Intuit QuickBooks",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1045317614648197120",
+        "parentSkillUid": null,
+        "prefLabel": "Calendar",
+        "prettyName": "Calendar",
+        "freeText": null,
+        "highlighted": false
+      }
+    ],
+    "jobTile": {
+      "job": {
+        "id": "2018354745439069253",
+        "ciphertext": "~022018354745439069253",
+        "jobType": "FIXED",
+        "weeklyRetainerBudget": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetMin": null,
+        "hourlyEngagementType": null,
+        "contractorTier": "IntermediateLevel",
+        "sourcingTimestamp": null,
+        "createTime": "2026-02-02T16:04:05.506Z",
+        "publishTime": "2026-02-02T16:04:39.809Z",
+        "hourlyEngagementDuration": null,
+        "fixedPriceAmount": {
+          "isoCurrencyCode": null,
+          "amount": "400.0"
+        },
+        "fixedPriceEngagementDuration": {
+          "id": "474250516458926082",
+          "rid": 3,
+          "label": "1 to 3 months",
+          "weeks": 9,
+          "ctime": "2014-06-04T17:59:10.123Z",
+          "mtime": "2014-06-04T17:59:10.123Z"
+        }
+      }
+    },
+    "relate_search": "n8n automation",
+    "relate_sort_id": 0
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 0
+},
+{
+  "id": 1,
+  "type": "private",
+  "type_description": "return simplify job info - Access is restricted to registered users only.",
+  "title": "Simple Make.com Scenario Setup Needed",
+  "link": "https://www.upwork.com/jobs/~022018334427135290881",
+  "data": {
+    "id": "2018334427135290881",
+    "title": "Simple Make.com Scenario Setup Needed",
+    "description": "Hi,\nI’m looking for someone experienced with Make.com to help me set up a very simple H^automation^H scenario. This is a small task and should be quick for someone who knows Make well.\nWhat I need:\n• Create one basic scenario\n• Trigger from a form submission or webhook\n• Send the data to another app such as Google Sheets or Airtable\n• Test the scenario and confirm it runs correctly\nI already have the apps connected. I just need help building the scenario and making sure it works properly.\nRequirements:\n• Experience with Make.com\n• Able to complete today or within 24 hours\n• Clear communication\nIf this goes well, I’ll have more small H^automation^H tasks.\nPlease send a short proposal with your Make experience.\nThanks.",
+    "relevanceEncoded": "{\"position\":\"1\"}",
+    "ontologySkills": [
+      {
+        "uid": "1733104400597401607",
+        "parentSkillUid": null,
+        "prefLabel": "n8n",
+        "prettyName": "n8n",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1270387293403987968",
+        "parentSkillUid": null,
+        "prefLabel": "Automated Workflow",
+        "prettyName": "Automated Workflow",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1031626717876699136",
+        "parentSkillUid": null,
+        "prefLabel": "Automation",
+        "prettyName": "Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1549040408135077888",
+        "parentSkillUid": null,
+        "prefLabel": "CRM Automation",
+        "prettyName": "CRM Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1031626797853687808",
+        "parentSkillUid": null,
+        "prefLabel": "Zapier",
+        "prettyName": "Zapier",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1225465944849223680",
+        "parentSkillUid": null,
+        "prefLabel": "Make.com",
+        "prettyName": "Make.com",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1110580482322976768",
+        "parentSkillUid": null,
+        "prefLabel": "API",
+        "prettyName": "API",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1110580482566246400",
+        "parentSkillUid": null,
+        "prefLabel": "API Integration",
+        "prettyName": "API Integration",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1691099314245873665",
+        "parentSkillUid": null,
+        "prefLabel": "AI Agent Development",
+        "prettyName": "AI Agent Development",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1733104400580624384",
+        "parentSkillUid": null,
+        "prefLabel": "OpenAI API",
+        "prettyName": "OpenAI API",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1691099314245873664",
+        "parentSkillUid": null,
+        "prefLabel": "ChatGPT API Integration",
+        "prettyName": "ChatGPT API Integration",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1691099313604145152",
+        "parentSkillUid": null,
+        "prefLabel": "AI Builder",
+        "prettyName": "AI Builder",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1691099314170376192",
+        "parentSkillUid": null,
+        "prefLabel": "AI Bot",
+        "prettyName": "AI Bot",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1623716864341708800",
+        "parentSkillUid": null,
+        "prefLabel": "AI Chatbot",
+        "prettyName": "AI Chatbot",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626751796035584",
+        "parentSkillUid": null,
+        "prefLabel": "JSON",
+        "prettyName": "JSON",
+        "freeText": null,
+        "highlighted": false
+      }
+    ],
+    "jobTile": {
+      "job": {
+        "id": "2018334427135290881",
+        "ciphertext": "~022018334427135290881",
+        "jobType": "FIXED",
+        "weeklyRetainerBudget": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetMin": null,
+        "hourlyEngagementType": null,
+        "contractorTier": "IntermediateLevel",
+        "sourcingTimestamp": null,
+        "createTime": "2026-02-02T14:43:21.256Z",
+        "publishTime": "2026-02-02T14:43:47.316Z",
+        "hourlyEngagementDuration": null,
+        "fixedPriceAmount": {
+          "isoCurrencyCode": null,
+          "amount": "10.0"
+        },
+        "fixedPriceEngagementDuration": {
+          "id": "474250516458926083",
+          "rid": 4,
+          "label": "Less than 1 month",
+          "weeks": 3,
+          "ctime": "2014-06-04T17:59:10.123Z",
+          "mtime": "2014-06-04T17:59:10.123Z"
+        }
+      }
+    },
+    "relate_search": "n8n automation",
+    "relate_sort_id": 1
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 1
+},
+{
+  "id": 2,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "AI and Automation Systems Builder",
+  "link": "https://www.upwork.com/jobs/~022018249952910709208",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-02-02T09:07:41.002Z",
+      "publishTime": "2026-02-02T09:13:34.948Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": "Less than 30 hrs/week",
+      "contractorTier": "EXPERT",
+      "description": "We are building a modern, technology-enabled advisory firm and are looking for a systems-first operator to build our backend from the ground up.\nThis role is not marketing and not data entry.\nYou will design and implement the core operating system that runs our business.\n\nResponsibilities\nBuild lead intake, qualification, and routing systems\nConfigure and customize CRM pipelines\nDesign automation flows using Zapier or Make\nIntegrate AI (LLMs) for:\nLead summaries\nCall summaries\nDeal analysis\nSet up secure document workflows\nCreate SOPs and system documentation\nEnsure everything is scalable, clean, and maintainable\n\nRequired Skills\nAdvanced Zapier or Make experience\nCRM setup experience (HubSpot, GoHighLevel, Pipedrive, or Airtable)\nPractical experience integrating OpenAI / LLMs\nStrong understanding of business workflows\nAbility to work independently and think end-to-end\nExcellent written English (documentation matters)\n\nNice to Have\nExperience in finance, consulting, or advisory firms\nFamiliarity with data rooms and confidential workflows\nExperience building multi-step pipelines",
+      "info": {
+        "ciphertext": "~022018249952910709208",
+        "id": "2018249952910709208",
+        "type": "HOURLY",
+        "access": "PUBLIC_INDEX",
+        "title": "AI and Automation Systems Builder",
+        "hideBudget": false,
+        "createdOn": "2026-02-02T09:07:41.002Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Complex project",
+          "name": "Employment",
+          "sortOrder": 2,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_COMPLEX_PROJECT",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:scriptingandautomation",
+          "prefLabel": "Scripting & Automation",
+          "id": "1110580764771602432",
+          "uid": "1110580764771602432"
+        },
+        "ontologySkills": [
+          {
+            "groupId": "1225465953040699392",
+            "id": "1031626797853687808",
+            "freeText": null,
+            "prefLabel": "Zapier",
+            "groupPrefLabel": "Platform Expertise",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1110580689949413376",
+            "id": "1733104400597401607",
+            "freeText": null,
+            "prefLabel": "n8n",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          }
+        ],
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "1031626717876699136",
+            "freeText": null,
+            "prefLabel": "Automation",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626716094119936",
+            "freeText": null,
+            "prefLabel": "Artificial Intelligence",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626756418158592",
+            "freeText": null,
+            "prefLabel": "Marketing Automation",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": null,
+            "freeText": "Loveable",
+            "prefLabel": null,
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1110580625189359616",
+            "freeText": null,
+            "prefLabel": "Marketing",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1549040408135077888",
+            "freeText": null,
+            "prefLabel": "CRM Automation",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1110580534940520448",
+            "freeText": null,
+            "prefLabel": "CRM Software",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "Scripts & Utilities",
+        "urlSlug": "scripts-utilities"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 0,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "contractToHireSet",
+          "firstJobPost",
+          "searchable",
+          "C2HJobsOptInEducation"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": 30,
+        "hourlyBudgetMax": 60,
+        "hourlyBudgetType": "DEFAULT"
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T13:29:09.822Z",
+        "totalApplicants": 61,
+        "totalHired": 0,
+        "totalInvitedToInterview": 6,
+        "unansweredInvites": 0,
+        "invitationsSent": 1,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "8.19672131147541%",
+        "lastOnlineTime": "4 hours ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": null,
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": null,
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": 30
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -28800000,
+        "countryTimezone": "America/Tijuana (UTC-08:00)",
+        "city": "Lodi",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 0,
+        "activeAssignmentsCount": 0,
+        "hoursCount": 0,
+        "feedbackCount": 0,
+        "score": 0,
+        "totalJobsWithHires": 0,
+        "totalCharges": null
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2026-02-02T00:00:00.000Z",
+        "profile": {
+          "industry": null,
+          "size": null
+        }
+      },
+      "jobs": {
+        "openCount": 1,
+        "openJobs": [
+          {
+            "id": "2018249952910709208",
+            "uid": "2018249952910709208",
+            "isPtcPrivate": false,
+            "ciphertext": "~022018249952910709208",
+            "title": "AI and Automation Systems Builder",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~021959920918248613589",
+        "title": "Script to process Rocket Solver .rsl file into parsable (.csv or .txt) format",
+        "description": "Rocket Solver is a public Poker solver for a No Limit Holdem, that can be used to compute Game Theory Optimal strategies. These strategic game trees are saved into their inhouse .rsl files. This file amongst other things, tells the user what an optimal strategy looks like at each node of the defined game tree.\n\nI am a Professional Poker player (and former software engineer), who would like to export the strategies inside this file, and plug them into other more streamline tools I have built for studying Poker. Unfortunately Rocket Solver does not have a built in functionality to export the complete strategies into parsable formats. I have tried using AI to guide me on how to reverse engineer these files but have not had any success.\n\nI would like to hire someone experienced at reverse engineering, to provide me a solution that reads these .rsl files and saves the strategies into a parsable format (.txt / .csv etc).\n\nMy guess is it isn't much work, but I have no experience doing any reverse engineering at all. Happy to discuss. I have provided a very simple example .rsl files.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-08-25T10:08:55+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Reverse Engineering"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021986428536604091059",
+        "title": "Job Aggregation and Dashboard Creation",
+        "description": "We are developing AutoApply AI, a platform that aggregates job listings from multiple websites and provides a simple dashboard for viewing and managing the data. This phase focuses on creating the job aggregation system and a basic web dashboard.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2025-11-06T13:40:44+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Scraping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Extraction"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          },
+          {
+            "id": null,
+            "prefLabel": "UI/UX Prototyping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Scraping"
+          }
+        ],
+        "hourlyBudgetMin": 15,
+        "hourlyBudgetMax": 25
+      },
+      {
+        "id": null,
+        "ciphertext": "~021996905695043334319",
+        "title": "AI UGC Video Generator - n8n Workflow",
+        "description": "Main Goal: Build a new n8n workflow that can automatically create 30–40 second product videos: \nThe system will generate realistic product videos that show the item in use, with an \noptional presenter (real human face). We are in need of 2 different workflows.\n\nWorkflows must:\n\nAccept product reference images and packaging files as input.\n\nIdentify the product using visuals, packaging text, or user-provided text.\n\nGenerate a script and visuals for a 30–40s video.\n\nUse a tool capable of creating realistic, imperfect human faces.\n\nProduce real, imperfect, professional-looking images and videos.\n\nAutomatically save the final UGC video to Google Drive.\n\n\n\nPlease find the task description in the PDF attached.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-05T11:33:13+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Agent Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "CRM Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Artificial Intelligence"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Services"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Content Creation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Make.com"
+          },
+          {
+            "id": null,
+            "prefLabel": "n8n"
+          },
+          {
+            "id": null,
+            "prefLabel": "OpenAI API"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Process Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Lead Generation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Google Ads"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Social Media Marketing Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Omnichannel Automation"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022005664656839048082",
+        "title": "Zoho Automations Specialist Needed",
+        "description": "We are looking for a skilled Zoho Automations specialist to help streamline our workflow through automation. The ideal candidate will have experience in configuring and implementing various Zoho modules to enhance productivity and efficiency. You will be responsible for analyzing our current processes, identifying automation opportunities, and developing tailored solutions using Zoho's automation tools. Strong problem-solving skills and a deep understanding of Zoho’s ecosystem are essential. If you have a proven track record in automating workflows within Zoho, we want to hear from you!",
+        "engagement": "Hours to be determined",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-29T15:38:12+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Zoho CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Zoho Creator"
+          },
+          {
+            "id": null,
+            "prefLabel": "Customer Relationship Management"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Campaign Setup"
+          }
+        ],
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 7
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 2
+},
+{
+  "id": 3,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "n8n Work Flows",
+  "link": "https://www.upwork.com/jobs/~022018187967375445275",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-02-02T05:01:22.523Z",
+      "publishTime": "2026-02-02T05:01:43.223Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": "Not Sure",
+      "contractorTier": "INTERMEDIATE",
+      "description": "Looking for someone to create a couple automations for me:\n\n1. Monthly report for our property managers gather data from several APIs. \n\n2. Another one that targets any new property listing with a specific property type, finds realtor and it's contact, and emails them\n\nA couple others potentially as well.",
+      "info": {
+        "ciphertext": "~022018187967375445275",
+        "id": "2018187967375445275",
+        "type": "HOURLY",
+        "access": "PUBLIC_INDEX",
+        "title": "n8n Work Flows",
+        "hideBudget": false,
+        "createdOn": "2026-02-02T05:01:22.523Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Ongoing project",
+          "name": "Employment",
+          "sortOrder": 1,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_POSITION",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:scriptingandautomation",
+          "prefLabel": "Scripting & Automation",
+          "id": "1110580764771602432",
+          "uid": "1110580764771602432"
+        },
+        "ontologySkills": [
+          {
+            "groupId": "1225465956979150848",
+            "id": "1110580482566246400",
+            "freeText": null,
+            "prefLabel": "API Integration",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1031626717876699136",
+            "freeText": null,
+            "prefLabel": "Automation",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1192876963991666688",
+            "freeText": null,
+            "prefLabel": "Business Process Automation",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1110580689949413376",
+            "id": "1733104400597401607",
+            "freeText": null,
+            "prefLabel": "n8n",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          }
+        ],
+        "additionalSkills": null
+      },
+      "category": {
+        "name": "Scripts & Utilities",
+        "urlSlug": "scripts-utilities"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 0,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "contractToHireSet",
+          "searchable",
+          "C2HJobsOptInEducation"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 30,
+        "hourlyBudgetType": "MANUAL"
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T17:05:58.066Z",
+        "totalApplicants": 23,
+        "totalHired": 0,
+        "totalInvitedToInterview": 2,
+        "unansweredInvites": 3,
+        "invitationsSent": 4,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "4.3478260869565215%",
+        "lastOnlineTime": "44 minutes ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": [
+        "Colombia",
+        "Argentina",
+        "Costa Rica",
+        "Poland"
+      ],
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": null,
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": 0
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -10800000,
+        "countryTimezone": "America/Sao_Paulo (UTC-03:00)",
+        "city": "south beloit",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 40,
+        "activeAssignmentsCount": 7,
+        "hoursCount": 2041.33,
+        "feedbackCount": 30,
+        "score": 5,
+        "totalJobsWithHires": 34,
+        "totalCharges": {
+          "amount": 37146.35
+        }
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2016-12-16T00:00:00.000Z",
+        "profile": {
+          "industry": null,
+          "size": null
+        }
+      },
+      "jobs": {
+        "openCount": 1,
+        "openJobs": [
+          {
+            "id": "2018187967375445275",
+            "uid": "2018187967375445275",
+            "isPtcPrivate": false,
+            "ciphertext": "~022018187967375445275",
+            "title": "n8n Work Flows",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~021986428536604091059",
+        "title": "Job Aggregation and Dashboard Creation",
+        "description": "We are developing AutoApply AI, a platform that aggregates job listings from multiple websites and provides a simple dashboard for viewing and managing the data. This phase focuses on creating the job aggregation system and a basic web dashboard.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2025-11-06T13:40:44+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Scraping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Extraction"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          },
+          {
+            "id": null,
+            "prefLabel": "UI/UX Prototyping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Scraping"
+          }
+        ],
+        "hourlyBudgetMin": 15,
+        "hourlyBudgetMax": 25
+      },
+      {
+        "id": null,
+        "ciphertext": "~021959920918248613589",
+        "title": "Script to process Rocket Solver .rsl file into parsable (.csv or .txt) format",
+        "description": "Rocket Solver is a public Poker solver for a No Limit Holdem, that can be used to compute Game Theory Optimal strategies. These strategic game trees are saved into their inhouse .rsl files. This file amongst other things, tells the user what an optimal strategy looks like at each node of the defined game tree.\n\nI am a Professional Poker player (and former software engineer), who would like to export the strategies inside this file, and plug them into other more streamline tools I have built for studying Poker. Unfortunately Rocket Solver does not have a built in functionality to export the complete strategies into parsable formats. I have tried using AI to guide me on how to reverse engineer these files but have not had any success.\n\nI would like to hire someone experienced at reverse engineering, to provide me a solution that reads these .rsl files and saves the strategies into a parsable format (.txt / .csv etc).\n\nMy guess is it isn't much work, but I have no experience doing any reverse engineering at all. Happy to discuss. I have provided a very simple example .rsl files.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-08-25T10:08:55+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Reverse Engineering"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021996905695043334319",
+        "title": "AI UGC Video Generator - n8n Workflow",
+        "description": "Main Goal: Build a new n8n workflow that can automatically create 30–40 second product videos: \nThe system will generate realistic product videos that show the item in use, with an \noptional presenter (real human face). We are in need of 2 different workflows.\n\nWorkflows must:\n\nAccept product reference images and packaging files as input.\n\nIdentify the product using visuals, packaging text, or user-provided text.\n\nGenerate a script and visuals for a 30–40s video.\n\nUse a tool capable of creating realistic, imperfect human faces.\n\nProduce real, imperfect, professional-looking images and videos.\n\nAutomatically save the final UGC video to Google Drive.\n\n\n\nPlease find the task description in the PDF attached.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-05T11:33:13+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Agent Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "CRM Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Artificial Intelligence"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Services"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Content Creation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Make.com"
+          },
+          {
+            "id": null,
+            "prefLabel": "n8n"
+          },
+          {
+            "id": null,
+            "prefLabel": "OpenAI API"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Process Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Lead Generation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Google Ads"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Social Media Marketing Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Omnichannel Automation"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022005664656839048082",
+        "title": "Zoho Automations Specialist Needed",
+        "description": "We are looking for a skilled Zoho Automations specialist to help streamline our workflow through automation. The ideal candidate will have experience in configuring and implementing various Zoho modules to enhance productivity and efficiency. You will be responsible for analyzing our current processes, identifying automation opportunities, and developing tailored solutions using Zoho's automation tools. Strong problem-solving skills and a deep understanding of Zoho’s ecosystem are essential. If you have a proven track record in automating workflows within Zoho, we want to hear from you!",
+        "engagement": "Hours to be determined",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-29T15:38:12+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Zoho CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Zoho Creator"
+          },
+          {
+            "id": null,
+            "prefLabel": "Customer Relationship Management"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Campaign Setup"
+          }
+        ],
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 7
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 3
+},
+{
+  "id": 4,
+  "type": "private",
+  "type_description": "return simplify job info - Access is restricted to registered users only.",
+  "title": "Simple Webhook Trigger Setup in H^n8n^H",
+  "link": "https://www.upwork.com/jobs/~022018073951988766850",
+  "data": {
+    "id": "2018073951988766850",
+    "title": "Simple Webhook Trigger Setup in H^n8n^H",
+    "description": "I’m looking for someone to set up a basic webhook trigger in H^n8n^H for a small H^automation^H.\nContext:\nWe have an external system that needs to send data into H^n8n^H via webhook. Once received, the data should be processed and stored in Google Sheets.\nTask Type:\nWebhook integration and trigger setup\nObjective:\nCreate a working webhook endpoint in H^n8n^H that receives external data and pushes it into Google Sheets.\nDeliverables:\nWebhook trigger node setup\nPayload parsing\nData validation\nGoogle Sheets insert logic\nBasic error handling\nTest endpoint\nProject Size:\nVery small task\nBudget:\n$10 fixed price\nFast turnaround required",
+    "relevanceEncoded": "{\"position\":\"4\"}",
+    "ontologySkills": [
+      {
+        "uid": "1484275374491357184",
+        "parentSkillUid": null,
+        "prefLabel": "Email Automation",
+        "prettyName": "Email Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1031626756418158592",
+        "parentSkillUid": null,
+        "prefLabel": "Marketing Automation",
+        "prettyName": "Marketing Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1549040408135077888",
+        "parentSkillUid": null,
+        "prefLabel": "CRM Automation",
+        "prettyName": "CRM Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1192876963991666688",
+        "parentSkillUid": null,
+        "prefLabel": "Business Process Automation",
+        "prettyName": "Business Process Automation",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1270387293403987968",
+        "parentSkillUid": null,
+        "prefLabel": "Automated Workflow",
+        "prettyName": "Automated Workflow",
+        "freeText": null,
+        "highlighted": true
+      },
+      {
+        "uid": "1031626797853687808",
+        "parentSkillUid": null,
+        "prefLabel": "Zapier",
+        "prettyName": "Zapier",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626745198395392",
+        "parentSkillUid": null,
+        "prefLabel": "HubSpot",
+        "prettyName": "HubSpot",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1031626708900888576",
+        "parentSkillUid": null,
+        "prefLabel": "ActiveCampaign",
+        "prettyName": "ActiveCampaign",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1204836469569601536",
+        "parentSkillUid": null,
+        "prefLabel": "Marketing Operations & Workflow",
+        "prettyName": "Marketing Operations & Workflow",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1549040414804021248",
+        "parentSkillUid": null,
+        "prefLabel": "HighLevel",
+        "prettyName": "HighLevel",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1225465944849223680",
+        "parentSkillUid": null,
+        "prefLabel": "Make.com",
+        "prettyName": "Make.com",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1549040754702028800",
+        "parentSkillUid": null,
+        "prefLabel": "Sales Funnel",
+        "prettyName": "Sales Funnel",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1484275087466745856",
+        "parentSkillUid": null,
+        "prefLabel": "Sales Funnel Builder",
+        "prettyName": "Sales Funnel Builder",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1534904462479802368",
+        "parentSkillUid": null,
+        "prefLabel": "Sales Funnel Implementation",
+        "prettyName": "Sales Funnel Implementation",
+        "freeText": null,
+        "highlighted": false
+      },
+      {
+        "uid": "1253342878198542336",
+        "parentSkillUid": null,
+        "prefLabel": "Funnel Testing",
+        "prettyName": "Funnel Testing",
+        "freeText": null,
+        "highlighted": false
+      }
+    ],
+    "jobTile": {
+      "job": {
+        "id": "2018073951988766850",
+        "ciphertext": "~022018073951988766850",
+        "jobType": "FIXED",
+        "weeklyRetainerBudget": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetMin": null,
+        "hourlyEngagementType": null,
+        "contractorTier": "IntermediateLevel",
+        "sourcingTimestamp": null,
+        "createTime": "2026-02-01T21:28:19.078Z",
+        "publishTime": "2026-02-02T00:28:22.763Z",
+        "hourlyEngagementDuration": null,
+        "fixedPriceAmount": {
+          "isoCurrencyCode": null,
+          "amount": "10.0"
+        },
+        "fixedPriceEngagementDuration": {
+          "id": "474250516458926083",
+          "rid": 4,
+          "label": "Less than 1 month",
+          "weeks": 3,
+          "ctime": "2014-06-04T17:59:10.123Z",
+          "mtime": "2014-06-04T17:59:10.123Z"
+        }
+      }
+    },
+    "relate_search": "n8n automation",
+    "relate_sort_id": 4
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 4
+},
+{
+  "id": 5,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "N8N Workflow Automation for Lawfirm",
+  "link": "https://www.upwork.com/jobs/~022018008697734966523",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-02-01T17:09:01.308Z",
+      "publishTime": "2026-02-01T17:09:24.110Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": null,
+      "contractorTier": "EXPERT",
+      "description": "Use N8N help law firm legal assistants with workflows  entered around filling forms for estate planning and probate law firm. All output should be Microsoft Word. The output documents should be saved into a Microsoft Sharepoint file.\n\nAttorney is a Youtube creator and always pays on time. Please send all offers through Upwork only.",
+      "info": {
+        "ciphertext": "~022018008697734966523",
+        "id": "2018008697734966523",
+        "type": "FIXED",
+        "access": "PUBLIC_INDEX",
+        "title": "N8N Workflow Automation for Lawfirm",
+        "hideBudget": false,
+        "createdOn": "2026-02-01T17:09:01.308Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Complex project",
+          "name": "Employment",
+          "sortOrder": 2,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_COMPLEX_PROJECT",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:solutionsarchitecture",
+          "prefLabel": "Solution Architecture",
+          "id": "1110580765614657536",
+          "uid": "1110580765614657536"
+        },
+        "ontologySkills": [
+          {
+            "groupId": "1549040535939715072",
+            "id": "1110580618302312448",
+            "freeText": null,
+            "prefLabel": "Legal",
+            "groupPrefLabel": "Industry",
+            "relevance": "MANDATORY"
+          }
+        ],
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "1110580576610930688",
+            "freeText": null,
+            "prefLabel": "Form Development",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626759719075840",
+            "freeText": null,
+            "prefLabel": "Microsoft Word",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "DevOps & Solution Architecture",
+        "urlSlug": "devops-solution-architecture"
+      },
+      "categoryGroup": {
+        "name": "IT & Networking",
+        "urlSlug": "it-networking"
+      },
+      "budget": {
+        "amount": 300,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "contractToHireSet",
+          "searchable",
+          "C2HJobsOptInEducation"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetType": null
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T01:15:37.466Z",
+        "totalApplicants": 37,
+        "totalHired": 0,
+        "totalInvitedToInterview": 13,
+        "unansweredInvites": 17,
+        "invitationsSent": 30,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "0%",
+        "lastOnlineTime": "16 hours ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": null,
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": null,
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": null
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -10800000,
+        "countryTimezone": "America/Sao_Paulo (UTC-03:00)",
+        "city": "Miami",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 165,
+        "activeAssignmentsCount": 26,
+        "hoursCount": 23248.17,
+        "feedbackCount": 85,
+        "score": 4.31,
+        "totalJobsWithHires": 98,
+        "totalCharges": {
+          "amount": 196180.16
+        }
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2021-10-03T00:00:00.000Z",
+        "profile": {
+          "industry": "Legal",
+          "size": 10
+        }
+      },
+      "jobs": {
+        "openCount": 8,
+        "openJobs": [
+          {
+            "id": "2018008697734966523",
+            "uid": "2018008697734966523",
+            "isPtcPrivate": false,
+            "ciphertext": "~022018008697734966523",
+            "title": "N8N Workflow Automation for Lawfirm",
+            "type": "FIXED"
+          },
+          {
+            "id": "2016571305839354222",
+            "uid": "2016571305839354222",
+            "isPtcPrivate": false,
+            "ciphertext": "~022016571305839354222",
+            "title": "Microsoft Forms Creator",
+            "type": "FIXED"
+          },
+          {
+            "id": "2015980279099963314",
+            "uid": "2015980279099963314",
+            "isPtcPrivate": false,
+            "ciphertext": "~022015980279099963314",
+            "title": "Claude Code for Programming Bespoke Software for Law Firm",
+            "type": "FIXED"
+          },
+          {
+            "id": "2013235106249660415",
+            "uid": "2013235106249660415",
+            "isPtcPrivate": false,
+            "ciphertext": "~022013235106249660415",
+            "title": "Legal Assistant Probate",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~022005838173575503636",
+        "title": "Salesforce WhatsApp Outbound Setup",
+        "description": "We are looking for a Salesforce Configuration Specialist with experience in Digital Engagement and WhatsApp Messaging to implement a pre-defined WhatsApp Outbound Messaging solution.\n\nAll functional design, documentation, and scope are already completed — the work required is mainly configuration and light development (Flows / Actions) inside Salesforce.\n\nWhat you will do:\n\t•\tConfigure outbound WhatsApp messaging using existing Salesforce Digital Engagement setup.\n\t•\tCreate a simple “Send WhatsApp” action/button on Lead/Contact/Account.\n\t•\tConfigure the sending of approved WhatsApp templates (Meta HSM).\n\t•\tEnsure messages create or link to a Messaging Session.\n\t•\tMake the conversation visible in the Service Console.\n\t•\tBuild 1–2 basic reports for usage tracking.\n\t•\tSupport a brief round of UAT fixes (minor adjustments only).\n\nPlease submit your proposal and if interested please contact me for detail requirements.",
+        "engagement": null,
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "FIXED",
+        "createdOn": "2025-12-30T03:07:42+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 150
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Apex"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Visualforce"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce App Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce Sales Cloud"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce Service Cloud"
+          },
+          {
+            "id": null,
+            "prefLabel": "Salesforce Einstein"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022009234276733694425",
+        "title": "SAP HXM Consultant",
+        "description": "Support for the EC and ECP Tasks:\n- EC Issues\n- New requests\n- ECP Issues",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "More than 6 months",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2026-01-08T12:02:36+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [],
+        "hourlyBudgetMin": 30,
+        "hourlyBudgetMax": 40
+      },
+      {
+        "id": null,
+        "ciphertext": "~022008326027535809548",
+        "title": "Microsoft 365 Solutions Architect Needed",
+        "description": "We’re looking for a a Microsoft 365 infrastructure architect to design and correctly configure a new Microsoft 365 tenant from the ground up.\n\nThis is not a Teams admin, SharePoint content, or helpdesk role.\n\nOur team of ten works on-premises workstations. Only the founder operates inside a Cloud PC (already provisioned). Your role is to ensure secure identity, device management, and access control across this mixed environment—done cleanly, correctly, and without overkill.\n\nIf you value proper architecture, minimal attack surface, and systems that scale without needing to be rebuilt later, this role is for you.\n\nScope of Work\nIdentity & Access (Foundation)\nMicrosoft Entra ID tenant hardening\nMFA strategy (including break-glass accounts)\nRole-based admin access\nDisable legacy authentication\nIdentity-first design across all workloads\nDevice Management (Microsoft Intune)\nIntune setup (MDM + MAM) for on-prem workstations\nBYOD vs corporate device strategy\nCompliance and configuration profiles\nApp protection policies\nWindows, macOS, iOS, and Android enrollment flows\nConditional Access & Security\nConditional Access policies (risk-based and device-based)\nGeo-aware access controls (Australia / Philippines)\nEnforce compliant-device access for users\nPrivileged access restrictions for admin roles\nMicrosoft Defender for Business baseline policies\nCloud PC (Founder-Only)\nReview and harden existing Cloud PC configuration\nEnsure isolation from personal devices and accounts\nValidate Conditional Access alignment\nNo general Cloud PC rollout required\nTeams & SharePoint (Governance Only)\nClean SharePoint site architecture\nPermissions and access boundaries\nProper Teams and SharePoint structural governance\nRetention, auditing, and lifecycle considerations\n(No content creation or site building)\n\nWhat Success Looks Like\nTeam works securely on on-prem workstations\nFounder operates inside a locked-down Cloud PC\nConditional Access blocks non-compliant access automatically\nPersonal devices introduce minimal risk\nTeams and SharePoint remain structured and controlled\nEnvironment is future-ready for ISO 27001 / SOC 2\nNo architectural rework required later\nRequired Experience\nProven experience with Microsoft 365 Business Premium\nStrong hands-on expertise with Microsoft Intune\nDeep understanding of Conditional Access\nExperience securing hybrid/on-prem device environments\nIdentity- and security-first mindset\nAbility to clearly explain design decisions\n\n\nNice to Have\nZero Trust architecture experience\nISO 27001 or SOC 2 exposure\nMicrosoft certifications (MD-102, SC-300, etc.)\n\nImportant Notes\nThis is a fresh tenant\nCloud PC is founder-only, already established\nArchitecture quality and correctness matter more than speed\n\nThis Role Is NOT for You If\nYou primarily build Teams channels or SharePoint pages\nYour focus is mailbox management or helpdesk support\nYou avoid identity, security, or Conditional Access topics\nYou prefer shortcuts over correct architecture",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2026-01-05T23:53:32+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "SQL"
+          },
+          {
+            "id": null,
+            "prefLabel": "JavaScript"
+          },
+          {
+            "id": null,
+            "prefLabel": "Cloud Computing"
+          },
+          {
+            "id": null,
+            "prefLabel": "Java"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022008020450504511347",
+        "title": "Google Workspace to Zoho Mail Migration Expert (Zoho One | Zero Downtime | Business Email)",
+        "description": "Google Workspace to Zoho Mail Migration Expert (Zoho One | Zero Downtime Required)\nAbout Pillarcraft\n\nPillarcraft is a professional services and cloud solutions group operating across accounting, tax advisory, and technology-enabled business solutions. Our operations rely heavily on reliable, secure, and uninterrupted email communication with clients, partners, and government institutions.\n\nWe are transitioning our business email infrastructure from Google Workspace (Gmail) to Zoho Mail as part of our broader Zoho One ecosystem strategy. This migration must be executed professionally, securely, and with zero disruption to business operations.\n\nProject Objective\n\nEngage an experienced Zoho Mail and Google Workspace migration specialist to plan and execute a zero-downtime email migration, ensuring all historical emails, folders, aliases, and configurations are successfully moved and fully integrated into Zoho One.\n\nThis is a mission-critical infrastructure project, not a basic email setup task.\n\nScope of Work\n1. Discovery & Planning\n\nReview current Google Workspace setup (users, mailboxes, aliases, groups, forwarding rules).\n\nReview existing domains and email routing configurations.\n\nConfirm Zoho One and Zoho Mail readiness.\n\nDesign a detailed migration plan with clear timelines and risk mitigation.\n\n2. Email Data Migration\n\nMigrate all email data (Inbox, Sent, Drafts, folders, labels, attachments).\n\nUse appropriate migration method (Zoho Migration Tool via IMAP or Google API).\n\nEnsure no data loss and maintain mailbox integrity.\n\nValidate migrated mailboxes against source accounts.\n\n3. DNS & Email Authentication Configuration\n\nConfigure and validate:\n\nMX records\n\nSPF records\n\nDKIM authentication\n\nDMARC policy\n\nRequired CNAME/TXT records\n\nEnsure proper email deliverability and spam protection.\n\nPlan DNS cutover to avoid service disruption.\n\n4. Zoho One Integration\n\nEnsure Zoho Mail works seamlessly with:\n\nZoho CRM\n\nZoho Sign\n\nZoho Contracts\n\nZoho Bookings\n\nZoho WorkDrive\n\nValidate outbound email sending from Zoho applications.\n\nAlign email authentication with Zoho CRM and automation workflows.\n\n5. Testing & Go-Live\n\nTest inbound and outbound email delivery.\n\nVerify SPF/DKIM/DMARC alignment.\n\nConfirm user access, mobile/email client connectivity.\n\nMonitor mail flow during and after cutover.\n\n6. Post-Migration Support & Documentation\n\nProvide post-migration support for at least 7–14 days.\n\nResolve user issues promptly.\n\nDeliver complete documentation covering:\n\nDNS configurations\n\nMigration methodology\n\nAdmin credentials & access setup\n\nRecommendations for future administration\n\nKey Requirements\n\nProven experience migrating Google Workspace to Zoho Mail.\n\nStrong knowledge of Zoho One ecosystem.\n\nDeep understanding of DNS and email authentication.\n\nDemonstrated ability to execute zero-downtime migrations.\n\nExperience handling email for professional services firms.\n\nAbility to work with sensitive business data and sign an NDA.\n\nClear communication and professional documentation.\n\nDeliverables\n\nFully migrated email system in Zoho Mail.\n\nVerified email authentication and deliverability.\n\nSeamless integration with Zoho One applications.\n\nPost-migration support period.\n\nFinal migration and configuration report.\n\nHow to Apply\n\nPlease include the following in your proposal:\n\nSummary of your experience with Zoho Mail and Google Workspace migrations.\n\nAt least two recent migration projects you have completed.\n\nYour proposed migration approach and timeline.\n\nYour total project cost and what it includes.\n\nConfirmation of post-migration support availability.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2026-01-05T03:39:17+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Google Workspace Administration"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 5
+},
+{
+  "id": 6,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "N8N Automation Expert Needed: Amazon & Walmart Daily Sales Dashboard Automation",
+  "link": "https://www.upwork.com/jobs/~022017740586191940225",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-01-31T23:23:38.529Z",
+      "publishTime": "2026-01-31T23:24:01.885Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": null,
+      "contractorTier": "EXPERT",
+      "description": "Project Overview\nI need an experienced n8n automation expert to complete and enhance automated daily dashboards that pull sales and advertising data from Amazon (Seller Central + Ads API) and Walmart (Seller + Ads API) into Google Sheets.\nCurrent Status: I have already:\n\n✅ Connected all API credentials (Amazon SP-API, Amazon Ads API, Walmart APIs)\n✅ Built the first 6 nodes of the Amazon workflow (schedule trigger, date calculation, token generation, initial report requests)\n✅ Created Google Sheets templates with headers\n\nWhat I Need You to Do:\nComplete both automation workflows to production-ready state with proper error handling, data validation, and documentation.\n\nScope of Work\n1. Complete Amazon Dashboard Automation\nBuild on existing 6 nodes to create complete workflow:\nRequired Functionality:\n\n✅ Daily automated trigger at 6:00 AM CST\n✅ Pull data for \"yesterday\" with correct timezone handling (CST)\n✅ Amazon Seller Central data (15-20 metrics):\n\nTotal orders, total revenue, units sold\nOrder status breakdown (shipped, pending, cancelled)\nAverage order value, returns/refunds\nProduct-level sales if feasible\n\n\n✅ Amazon Ads data (15-20 metrics):\n\nAd spend, ad sales, ad orders\nImpressions, clicks, CTR, CPC\nACoS, TACoS calculations\nCampaign performance by type (SP, SB, SD if applicable)\n\n\n\nTechnical Requirements:\n\nReport generation request → polling loop → download → parse\nHandle both TSV (Seller) and compressed JSON (Ads) formats\nMerge data from multiple sources\nCalculate derived metrics (ACoS, TACoS, organic sales, conversion rates)\nWrite formatted data to Google Sheets\nImplement retry logic for failed API calls\nAdd error notifications (email or webhook)\nInclude logging for debugging\n\n\n2. Build Walmart Dashboard Automation\nCreate complete workflow from scratch (mirroring Amazon structure):\nRequired Functionality:\n\n✅ Daily automated trigger at 6:15 AM CST (offset from Amazon)\n✅ Pull data for \"yesterday\" with correct timezone handling\n✅ Walmart Seller data (15-20 metrics):\n\nTotal orders, total revenue, units sold\nOrder status tracking\nProduct performance metrics\nFulfillment metrics (if available)\n\n\n✅ Walmart Ads data (15-20 metrics):\n\nAd spend, ad sales, ad orders\nImpressions, clicks, CTR, CPC\nACoS, TACoS calculations\nCampaign-level performance\n\n\n\nTechnical Requirements:\n\nSame architecture as Amazon workflow\nSeparate Google Sheets tab or spreadsheet\nAll error handling and retry logic\nData validation against Walmart dashboards\n\n\n3. Data Validation & Testing\nYou must:\n\n✅ Test both workflows thoroughly with manual execution\n✅ Validate data accuracy against:\n\nAmazon Seller Central Business Reports\nAmazon Ads Campaign Manager\nWalmart Seller Center\nWalmart Advertising Console\n\n\n✅ Ensure data variance is less than 2% from official dashboards\n✅ Verify date alignment is correct (yesterday = yesterday)\n✅ Test error handling by simulating failures\n✅ Document any known limitations or edge cases\n\n\n4. Documentation & Handoff\nDeliverables:\n\n✅ Complete, working n8n workflows (exportable JSON)\n✅ Step-by-step documentation for:\n\nHow workflows operate\nHow to manually trigger if needed\nHow to troubleshoot common errors\nWhere to find logs\n\n\n✅ Google Sheets with properly formatted data and formulas\n✅ List of all metrics being pulled with definitions\n✅ 7-day post-launch support for bug fixes\n\n\nRequired Skills & Experience\nMust Have:\n\n✅ Proven n8n expertise (3+ completed projects, portfolio required)\n✅ E-commerce API experience (Amazon SP-API, Ads API, or Walmart APIs)\n✅ JavaScript/JSON proficiency for data parsing and transformations\n✅ Experience with:\n\nAsynchronous API patterns (report generation → polling → download)\nCSV/TSV parsing\nGZIP/compressed data handling\nGoogle Sheets API integration\nTimezone conversions\nOAuth token refresh flows\n\n\n✅ Strong debugging and problem-solving skills\n✅ Attention to data accuracy (e-commerce finance data must be precise)\n\nNice to Have:\n\nExperience with Amazon Seller Central and Ads Console interfaces\nExperience with Walmart Seller Center\nFamiliarity with e-commerce metrics (ACoS, TACoS, ROAS)\nPrevious automation work for Amazon/Walmart sellers\n\n\nProject Timeline\n\nStart: Immediately upon hire\nCompletion: 10-14 days maximum\nSupport period: 7 days post-launch for bug fixes\n\nMilestones:\nDay 1-3: Complete Amazon workflow (50% payment)\nDay 4-6: Complete Walmart workflow + testing (40% payment)\nDay 7-10: Documentation + validation (10% payment)\n\nYour proposal MUST include:\n\nPortfolio Links:\n\nLink to at least 2-3 n8n workflows you've built (screenshots or exported JSON)\nAny e-commerce API integration projects\nGoogle Sheets automation examples\n\n\nRelevant Experience:\n\nHave you worked with Amazon SP-API or Ads API before? (Yes/No)\nHave you worked with Walmart APIs before? (Yes/No)\nHow many n8n workflows have you built? (Approximate number)\nRate your n8n expertise: Beginner / Intermediate / Expert\n\n\nTechnical Approach:\n\nBriefly describe how you would handle the polling/download cycle for Amazon reports\nHow would you ensure data accuracy matches official dashboards?\nWhat's your strategy for error handling and retry logic? \n* I can provide initial workflow and node configuration.",
+      "info": {
+        "ciphertext": "~022017740586191940225",
+        "id": "2017740586191940225",
+        "type": "FIXED",
+        "access": "PUBLIC_INDEX",
+        "title": "N8N Automation Expert Needed: Amazon & Walmart Daily Sales Dashboard Automation",
+        "hideBudget": false,
+        "createdOn": "2026-01-31T23:23:38.529Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Ongoing project",
+          "name": "Employment",
+          "sortOrder": 1,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_POSITION",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:scriptingandautomation",
+          "prefLabel": "Scripting & Automation",
+          "id": "1110580764771602432",
+          "uid": "1110580764771602432"
+        },
+        "ontologySkills": [
+          {
+            "groupId": "1225465956979150848",
+            "id": "1192876963991666688",
+            "freeText": null,
+            "prefLabel": "Business Process Automation",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1225465936942960640",
+            "freeText": null,
+            "prefLabel": "Dashboard",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1110580689949413376",
+            "id": "1733104400597401607",
+            "freeText": null,
+            "prefLabel": "n8n",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1110580689949413376",
+            "id": "1225465944849223680",
+            "freeText": null,
+            "prefLabel": "Make.com",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1110580482566246400",
+            "freeText": null,
+            "prefLabel": "API Integration",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1031626778232733696",
+            "freeText": null,
+            "prefLabel": "Scripting",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1031626730405085184",
+            "freeText": null,
+            "prefLabel": "Data Scraping",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1031626717876699136",
+            "freeText": null,
+            "prefLabel": "Automation",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1031626730153426944",
+            "freeText": null,
+            "prefLabel": "Data Extraction",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956979150848",
+            "id": "1549040253910519808",
+            "freeText": null,
+            "prefLabel": "Spreadsheet Automation",
+            "groupPrefLabel": "Scripting & Automation Deliverables",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1110580689949413376",
+            "id": "1031626751737315328",
+            "freeText": null,
+            "prefLabel": "jQuery",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465953040699392",
+            "id": "1031626741947809792",
+            "freeText": null,
+            "prefLabel": "Google Apps Script",
+            "groupPrefLabel": "Platform Expertise",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": "1225465956983345152",
+            "id": "996364628025274385",
+            "freeText": null,
+            "prefLabel": "PHP",
+            "groupPrefLabel": "Scripting Languages",
+            "relevance": "MANDATORY"
+          }
+        ],
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "1031626779570716672",
+            "freeText": null,
+            "prefLabel": "Shopify",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626756418158592",
+            "freeText": null,
+            "prefLabel": "Marketing Automation",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626742425960448",
+            "freeText": null,
+            "prefLabel": "Google Sheets",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "996364628025274386",
+            "freeText": null,
+            "prefLabel": "Python",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "Scripts & Utilities",
+        "urlSlug": "scripts-utilities"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 400,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "contractToHireSet",
+          "searchable",
+          "C2HJobsOptInEducation"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetType": null
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T06:25:20.270Z",
+        "totalApplicants": 21,
+        "totalHired": 0,
+        "totalInvitedToInterview": 3,
+        "unansweredInvites": 2,
+        "invitationsSent": 5,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "0%",
+        "lastOnlineTime": "11 hours ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": null,
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": null,
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": null
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -10800000,
+        "countryTimezone": "America/Sao_Paulo (UTC-03:00)",
+        "city": "Murphy",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 162,
+        "activeAssignmentsCount": 12,
+        "hoursCount": 175,
+        "feedbackCount": 85,
+        "score": 4.85,
+        "totalJobsWithHires": 137,
+        "totalCharges": {
+          "amount": 139453.07
+        }
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2011-04-16T00:00:00.000Z",
+        "profile": {
+          "industry": "Health & Fitness",
+          "size": 2
+        }
+      },
+      "jobs": {
+        "openCount": 1,
+        "openJobs": [
+          {
+            "id": "2017740586191940225",
+            "uid": "2017740586191940225",
+            "isPtcPrivate": false,
+            "ciphertext": "~022017740586191940225",
+            "title": "N8N Automation Expert Needed: Amazon & Walmart Daily Sales Dashboard Automation",
+            "type": "FIXED"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~021986428536604091059",
+        "title": "Job Aggregation and Dashboard Creation",
+        "description": "We are developing AutoApply AI, a platform that aggregates job listings from multiple websites and provides a simple dashboard for viewing and managing the data. This phase focuses on creating the job aggregation system and a basic web dashboard.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2025-11-06T13:40:44+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Scraping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Extraction"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          },
+          {
+            "id": null,
+            "prefLabel": "UI/UX Prototyping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Scraping"
+          }
+        ],
+        "hourlyBudgetMin": 15,
+        "hourlyBudgetMax": 25
+      },
+      {
+        "id": null,
+        "ciphertext": "~021959920918248613589",
+        "title": "Script to process Rocket Solver .rsl file into parsable (.csv or .txt) format",
+        "description": "Rocket Solver is a public Poker solver for a No Limit Holdem, that can be used to compute Game Theory Optimal strategies. These strategic game trees are saved into their inhouse .rsl files. This file amongst other things, tells the user what an optimal strategy looks like at each node of the defined game tree.\n\nI am a Professional Poker player (and former software engineer), who would like to export the strategies inside this file, and plug them into other more streamline tools I have built for studying Poker. Unfortunately Rocket Solver does not have a built in functionality to export the complete strategies into parsable formats. I have tried using AI to guide me on how to reverse engineer these files but have not had any success.\n\nI would like to hire someone experienced at reverse engineering, to provide me a solution that reads these .rsl files and saves the strategies into a parsable format (.txt / .csv etc).\n\nMy guess is it isn't much work, but I have no experience doing any reverse engineering at all. Happy to discuss. I have provided a very simple example .rsl files.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-08-25T10:08:55+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Reverse Engineering"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021996905695043334319",
+        "title": "AI UGC Video Generator - n8n Workflow",
+        "description": "Main Goal: Build a new n8n workflow that can automatically create 30–40 second product videos: \nThe system will generate realistic product videos that show the item in use, with an \noptional presenter (real human face). We are in need of 2 different workflows.\n\nWorkflows must:\n\nAccept product reference images and packaging files as input.\n\nIdentify the product using visuals, packaging text, or user-provided text.\n\nGenerate a script and visuals for a 30–40s video.\n\nUse a tool capable of creating realistic, imperfect human faces.\n\nProduce real, imperfect, professional-looking images and videos.\n\nAutomatically save the final UGC video to Google Drive.\n\n\n\nPlease find the task description in the PDF attached.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-05T11:33:13+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Agent Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "CRM Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Artificial Intelligence"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Services"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Content Creation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Make.com"
+          },
+          {
+            "id": null,
+            "prefLabel": "n8n"
+          },
+          {
+            "id": null,
+            "prefLabel": "OpenAI API"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Process Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Lead Generation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Google Ads"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Social Media Marketing Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Omnichannel Automation"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022005664656839048082",
+        "title": "Zoho Automations Specialist Needed",
+        "description": "We are looking for a skilled Zoho Automations specialist to help streamline our workflow through automation. The ideal candidate will have experience in configuring and implementing various Zoho modules to enhance productivity and efficiency. You will be responsible for analyzing our current processes, identifying automation opportunities, and developing tailored solutions using Zoho's automation tools. Strong problem-solving skills and a deep understanding of Zoho’s ecosystem are essential. If you have a proven track record in automating workflows within Zoho, we want to hear from you!",
+        "engagement": "Hours to be determined",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-29T15:38:12+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Zoho CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Zoho Creator"
+          },
+          {
+            "id": null,
+            "prefLabel": "Customer Relationship Management"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Campaign Setup"
+          }
+        ],
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 7
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 6
+},
+{
+  "id": 7,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "GHL Backend Architect: n8n Bidirectional Relational Mesh & API Logic",
+  "link": "https://www.upwork.com/jobs/~022017695960131311264",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-01-31T20:26:18.792Z",
+      "publishTime": "2026-01-31T22:22:48.384Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": "Less than 30 hrs/week",
+      "contractorTier": "EXPERT",
+      "description": "**ZCARE Project RFP: Medicare Command Center**\n\n**Project Overview:**\nZCARE is centralizing operations for a Medicare agency into a GoHighLevel (GHL) \"Command Center\" on a $97/mo plan. We are NOT seeking a marketing/funnel builder. We require a **Systems Architect** to build a custom **Multi-Point-to-Multi-Point Relational Mesh**.\n\n**Phase 0 Trial (Mandatory technical gate):**\nThis project begins with a **$200 Fixed-Fee, 24-hour Proof-of-Concept (POC)**. You must demonstrate the logic below via a Loom video or live technical demo within 24 hours of hire.\n\n**Technical Requirements:**\n\n1. **Deterministic Echo (Bidirectional Mesh):** When Record A is linked to Record B (via a custom field/ID), your system (n8n or custom API) must automatically create a reciprocal, clickable link on Record B back to Record A.\n2. **Recursive Loop Prevention:** You must demonstrate robust logic (Source tagging, header filtering, or conditional \"If/Else\" nodes) to prevent infinite \"ping-pong\" updates during the bidirectional sync.\n3. **Programmatic Binary Match:** Explain/demonstrate the logic to match 300+ legacy PDF filenames to specific GHL Contact IDs via API. Any mention of manual VA uploads is a disqualification.\n4. **Dynamic Relational UI:** Use Custom Menu Links and URL parameters to create a \"Relational View\" capable of displaying 50+ associated records in a clean, filtered workspace.\n\n**Ideal Tech Stack:**\n\n* **n8n** (Highly Preferred)\n* GHL v2 API\n* JSON / Webhooks / Python (for heavy data reconciliation)\n\n**The \"ZCARE\" Ground Rules:**\n\n* Opportunities are for sales stages, NOT for relational data storage.\n* If you claim that bidirectional many-to-many linking is a \"platform limitation,\" you do not meet the requirements.\n* We prioritize **Architectural Integrity** over \"pretty\" UI.\n\n\n### **Final Polish Tips:**\n\n1. **Skills Check:** Make sure **n8n** and **API Integration** are tagged.\n2. **Screening Question:** (Add this if Upwork allows): *\"Describe the specific n8n node or logic you would use to prevent an automated API update from triggering the same workflow again (infinite loop).\"*",
+      "info": {
+        "ciphertext": "~022017695960131311264",
+        "id": "2017695960131311264",
+        "type": "HOURLY",
+        "access": "PUBLIC_INDEX",
+        "title": "GHL Backend Architect: n8n Bidirectional Relational Mesh & API Logic",
+        "hideBudget": false,
+        "createdOn": "2026-01-31T20:26:18.792Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Ongoing project",
+          "name": "Employment",
+          "sortOrder": 1,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_POSITION",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:backenddevelopment",
+          "prefLabel": "Back-End Development",
+          "id": "1110580748673863680",
+          "uid": "1110580748673863680"
+        },
+        "ontologySkills": null,
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "996364628025274386",
+            "freeText": null,
+            "prefLabel": "Python",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626781382656000",
+            "freeText": null,
+            "prefLabel": "Software Architecture & Design",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1110580482322976768",
+            "freeText": null,
+            "prefLabel": "API",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "996364628025274382",
+            "freeText": null,
+            "prefLabel": "Java",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "Web Development",
+        "urlSlug": "web-development"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 0,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "contractToHireSet",
+          "jpgV2Generated",
+          "searchable"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": 35,
+        "hourlyBudgetMax": 75,
+        "hourlyBudgetType": "MANUAL"
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T14:02:25.271Z",
+        "totalApplicants": 10,
+        "totalHired": 0,
+        "totalInvitedToInterview": 0,
+        "unansweredInvites": 3,
+        "invitationsSent": 3,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "0%",
+        "lastOnlineTime": "3 hours ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": [
+        "Ukraine",
+        "Poland",
+        "Romania",
+        "Colombia",
+        "Brazil"
+      ],
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 90,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "FLUENT",
+      "regions": null,
+      "risingTalent": true,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": 30
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -18000000,
+        "countryTimezone": "America/New_York (UTC-05:00)",
+        "city": "Statesville",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 0,
+        "activeAssignmentsCount": 0,
+        "hoursCount": 0,
+        "feedbackCount": 0,
+        "score": 0,
+        "totalJobsWithHires": 0,
+        "totalCharges": null
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2025-07-15T00:00:00.000Z",
+        "profile": {
+          "industry": "Finance & Accounting",
+          "size": 2
+        }
+      },
+      "jobs": {
+        "openCount": 1,
+        "openJobs": [
+          {
+            "id": "2017695960131311264",
+            "uid": "2017695960131311264",
+            "isPtcPrivate": false,
+            "ciphertext": "~022017695960131311264",
+            "title": "GHL Backend Architect: n8n Bidirectional Relational Mesh & API Logic",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~022009894084527697347",
+        "title": "Tosca DI & ETL Technologies Support in Hyderabad",
+        "description": "We are seeking a skilled individual based in Hyderabad for support with Tosca DI and ETL Technologies. The ideal candidate should possess hands-on experience in data integration and transformation processes. Your role will include troubleshooting, optimizing ETL workflows, and providing insights on best practices. If you have a strong understanding of data pipelines and Tosca's functionalities, we would love to hear from you. This is an excellent opportunity to work in a dynamic environment and enhance your skills.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2026-01-10T07:44:26+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Python"
+          },
+          {
+            "id": null,
+            "prefLabel": "Java"
+          },
+          {
+            "id": null,
+            "prefLabel": "SQL"
+          },
+          {
+            "id": null,
+            "prefLabel": "ETL"
+          },
+          {
+            "id": null,
+            "prefLabel": "Amazon Web Services"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022011133664603212014",
+        "title": "Need a bridge deepseek + metatrade5",
+        "description": "Need a automated trading system Deepseek AI + Metatrader5 / Create by 3 Milestones of $100 .. Total $300. create the proposal ..everything included on this 1 stage ..ones verify we continue.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2026-01-13T17:50:05+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Python"
+          },
+          {
+            "id": null,
+            "prefLabel": "Django"
+          },
+          {
+            "id": null,
+            "prefLabel": "HTML"
+          },
+          {
+            "id": null,
+            "prefLabel": "CSS"
+          },
+          {
+            "id": null,
+            "prefLabel": "JavaScript"
+          },
+          {
+            "id": null,
+            "prefLabel": "Selenium"
+          },
+          {
+            "id": null,
+            "prefLabel": "Git"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022006124530344582932",
+        "title": "NocoDB Data Model Setup (Leads CRM + Linked Dynamic Questions) – Self-Hosted",
+        "description": "I’m looking for an experienced NocoDB user to set up a clean, production-ready data model for a leads CRM in a self-hosted (local) NocoDB instance.\nThe goal is to correctly model a website contact form with dynamic / conditional questions per service, using linked tables (Link fields) instead of a single free-text column.\nThis task is about data architecture and schema design, not about marketing automation.\n Please have a look to  this link to know how the form works \nhttps://www.nucleotecnologico.es/contacto \n\nContext (important)\n    • NocoDB is running locally (self-hosted, free/community edition)\n    • SMTP is already configured and working (emails can be sent manually)\n    • Automations/workflows are not the main scope\n    • The priority is to have all information correctly represented in tables, so automation can be added later\n\nIMPORTANT – Website specification (Spanish, do not translate)\nThis is the only section in Spanish. Everything else should remain in English.\nPlease have a look to the  attached file",
+        "engagement": null,
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "FIXED",
+        "createdOn": "2025-12-30T22:05:34+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 25
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Database Design"
+          },
+          {
+            "id": null,
+            "prefLabel": "SQL"
+          },
+          {
+            "id": null,
+            "prefLabel": "Lead Generation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Modeling"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022006031898864512488",
+        "title": "WooCommerce Subscription Setup + Fix Email Notifications + Domain Connection",
+        "description": "Job Description\nWe are running a WordPress + WooCommerce website and require the following work completed properly and cleanly.\nThis is a live business website.\n\n1. Subscription Functionality (Critical)\nImportant:\nWe have already purchased and installed WooCommerce Subscriptions. This must be used.\nRequired behaviour\nCustomers add products to cart as a normal one-off purchase\nAt checkout, customers can choose to convert the entire cart into a subscription\nSubscription frequencies\nWeekly\nFortnightly\nMonthly\nKey requirements\nSubscription applies to the whole order, not individual products\nCustomer selects frequency at checkout\nAutomatic renewals using our existing payment gateway\nCustomers can manage subscriptions in “My Account”:\nPause\nChange delivery frequency\nCancel\nClear confirmation messaging after checkout\nImportant\nDo not convert products into subscription-only items\nNo alternative subscription plugins\nNo unstable custom code or hacks\n2. Fix WooCommerce Email Notifications (Critical)\nOrder and subscription emails are currently unreliable.\nWe need:\nOrder confirmation emails → customers\nNew order notifications → admin\nSubscription emails:\nRenewal confirmation\nFailed payment\nSubscription activated / cancelled\nTechnical requirements\nConfigure SMTP properly (WP Mail SMTP or equivalent)\nConnect to a reliable provider (Google Workspace / Outlook / SendGrid)\nEnsure emails consistently deliver (not spam)\nTest all email flows and confirm delivery\n3. Connect Domain (GoDaddy → Hostinger)\nThe domain is registered with GoDaddy and hosting is with Hostinger.\nTasks:\nCorrectly point domain from GoDaddy to Hostinger\nUpdate nameservers or DNS records as required\nEnsure:\nWebsite loads correctly\nSSL works\nEmail setup is not broken by DNS changes\nMinimal downtime required. Clear communication during DNS propagation.\nDeliverables\nFully working cart-level subscription checkout\nAll WooCommerce and subscription emails sending reliably\nDomain correctly connected and stable\nShort handover note explaining:\nSubscription setup\nEmail configuration\nDNS changes made\nRequired Experience\nProven WooCommerce Subscriptions experience\nSMTP / email delivery setup\nDNS management (GoDaddy + Hostinger)\nCareful work on live production sites\nTo Apply, You Must Answer:\nHave you implemented cart-level subscriptions using WooCommerce Subscriptions before? (Yes/No + example)\nHow will you configure checkout to apply subscriptions to the full cart?\nHow will you ensure email reliability?\nHave you connected GoDaddy domains to Hostinger before?",
+        "engagement": null,
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "EXPERT",
+        "type": "FIXED",
+        "createdOn": "2025-12-30T15:57:29+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 150
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "WooCommerce"
+          },
+          {
+            "id": null,
+            "prefLabel": "WordPress"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Development"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 7
+},
+{
+  "id": 8,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "ClickFunnels, workflow Automation Expert Needed (GoHighLevel, n8n, Flutter, and PHP)",
+  "link": "https://www.upwork.com/jobs/~022017529311704229593",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-01-31T09:24:06.734Z",
+      "publishTime": "2026-01-31T09:24:31.744Z",
+      "sourcingTime": "2026-01-31T18:11:21.339Z",
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": "More than 30 hrs/week",
+      "contractorTier": "EXPERT",
+      "description": "We’re looking for an experienced Workflow Automation Specialist to help us build, optimize, and maintain automations across our growth and operations stack.\n\nThis is a hands-on role working with real systems, APIs, and business workflows.\n\nTools & Technologies\nGoHighLevel (GHL) – CRM workflows, triggers, pipelines, webhooks\nn8n – advanced automation logic, API integrations, error handling\nManyReach – Email outreach automation\nReforce.ai – AI-powered lead engagement workflows\nPHP – custom scripts, middleware, API endpoints, data processing\nAPIs, Webhooks, JSON, conditional logic\n\nResponsibilities\nBuild and optimize end-to-end automation workflows\nDevelop and maintain custom PHP scripts to support integrations\nConnect tools using APIs and webhooks\nTroubleshoot, debug, and improve existing automations\nEnsure data accuracy, reliability, and performance\nClearly document workflows and logic\n\nRequirements\nStrong experience with workflow automation (beyond basic tools)\nHands-on experience with GoHighLevel and n8n\nSolid PHP development experience (REST APIs, backend logic)\nComfortable with JSON, APIs, webhooks, and conditional logic\nExperience with outreach automation tools (ManyReach or similar)\nClear communicator with strong attention to detail\n\nNice to Have\nExperience with AI-based workflows\nSales, marketing, or lead generation automation background\nExperience scaling automations for growing teams\n\nProject Type\nLong-term / ongoing collaboration\nFlexible hours\nPaid hourly or per project (based on experience)\n\nHow to Apply Please include:\nBrief summary of your automation and PHP experience\nTools you’ve worked with (be specific)\n1–2 examples of complex workflows or integrations you’ve built\nYour availability\nIf you enjoy building smart, reliable systems that actually work, we’d love to connect.",
+      "info": {
+        "ciphertext": "~022017529311704229593",
+        "id": "2017529311704229593",
+        "type": "HOURLY",
+        "access": "PUBLIC_INDEX",
+        "title": "ClickFunnels, workflow Automation Expert Needed (GoHighLevel, n8n, Flutter, and PHP)",
+        "hideBudget": false,
+        "createdOn": "2026-01-31T09:24:06.734Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": true
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Ongoing project",
+          "name": "Employment",
+          "sortOrder": 1,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_POSITION",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:scriptingandautomation",
+          "prefLabel": "Scripting & Automation",
+          "id": "1110580764771602432",
+          "uid": "1110580764771602432"
+        },
+        "ontologySkills": [
+          {
+            "groupId": "1110580689949413376",
+            "id": "1733104400597401607",
+            "freeText": null,
+            "prefLabel": "n8n",
+            "groupPrefLabel": "Scripting & Automation Skills",
+            "relevance": "MANDATORY"
+          }
+        ],
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "996364628025274385",
+            "freeText": null,
+            "prefLabel": "PHP",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626717876699136",
+            "freeText": null,
+            "prefLabel": "Automation",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": null,
+            "freeText": "Go High Level",
+            "prefLabel": null,
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1110580482322976768",
+            "freeText": null,
+            "prefLabel": "API",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1110580482566246400",
+            "freeText": null,
+            "prefLabel": "API Integration",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "Scripts & Utilities",
+        "urlSlug": "scripts-utilities"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 0,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "jsi_contractToHire",
+          "premium",
+          "contractToHireSet",
+          "searchable",
+          "C2HJobsOptInEducation"
+        ]
+      },
+      "engagementDuration": {
+        "label": "More than 6 months",
+        "weeks": 52
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 20,
+        "hourlyBudgetType": "MANUAL"
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-02-02T14:58:20.127Z",
+        "totalApplicants": 6,
+        "totalHired": 0,
+        "totalInvitedToInterview": 4,
+        "unansweredInvites": 54,
+        "invitationsSent": 68,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "0%",
+        "lastOnlineTime": "2 hours ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": null,
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": [
+        "Americas"
+      ],
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": {
+        "city": null,
+        "country": null,
+        "countryTimezone": null,
+        "offsetFromUtcMillis": null,
+        "state": null,
+        "worldRegion": "Americas"
+      },
+      "locations": null,
+      "minHoursWeek": 40
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": 0,
+        "countryTimezone": "Europe/London (UTCZ)",
+        "city": "Miami",
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 104,
+        "activeAssignmentsCount": 5,
+        "hoursCount": 1532.33,
+        "feedbackCount": 68,
+        "score": 4.98,
+        "totalJobsWithHires": 94,
+        "totalCharges": {
+          "amount": 35646.99
+        }
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2015-03-20T10:24:39.000Z",
+        "profile": {
+          "industry": "Health & Fitness",
+          "size": 2
+        }
+      },
+      "jobs": {
+        "openCount": 4,
+        "openJobs": [
+          {
+            "id": "2017529311704229593",
+            "uid": "2017529311704229593",
+            "isPtcPrivate": false,
+            "ciphertext": "~022017529311704229593",
+            "title": "ClickFunnels, workflow Automation Expert Needed (GoHighLevel, n8n, Flutter, and PHP)",
+            "type": "HOURLY"
+          },
+          {
+            "id": "2015717576770351359",
+            "uid": "2015717576770351359",
+            "isPtcPrivate": false,
+            "ciphertext": "~022015717576770351359",
+            "title": "Social Media Manager + GHL Marketing Assistant",
+            "type": "HOURLY"
+          },
+          {
+            "id": "2014815582598580848",
+            "uid": "2014815582598580848",
+            "isPtcPrivate": false,
+            "ciphertext": "~022014815582598580848",
+            "title": "Social Media Manager + GHL Marketing Assistant (Part-Time)",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~021959920918248613589",
+        "title": "Script to process Rocket Solver .rsl file into parsable (.csv or .txt) format",
+        "description": "Rocket Solver is a public Poker solver for a No Limit Holdem, that can be used to compute Game Theory Optimal strategies. These strategic game trees are saved into their inhouse .rsl files. This file amongst other things, tells the user what an optimal strategy looks like at each node of the defined game tree.\n\nI am a Professional Poker player (and former software engineer), who would like to export the strategies inside this file, and plug them into other more streamline tools I have built for studying Poker. Unfortunately Rocket Solver does not have a built in functionality to export the complete strategies into parsable formats. I have tried using AI to guide me on how to reverse engineer these files but have not had any success.\n\nI would like to hire someone experienced at reverse engineering, to provide me a solution that reads these .rsl files and saves the strategies into a parsable format (.txt / .csv etc).\n\nMy guess is it isn't much work, but I have no experience doing any reverse engineering at all. Happy to discuss. I have provided a very simple example .rsl files.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-08-25T10:08:55+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Reverse Engineering"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021986428536604091059",
+        "title": "Job Aggregation and Dashboard Creation",
+        "description": "We are developing AutoApply AI, a platform that aggregates job listings from multiple websites and provides a simple dashboard for viewing and managing the data. This phase focuses on creating the job aggregation system and a basic web dashboard.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2025-11-06T13:40:44+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Scraping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Data Extraction"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          },
+          {
+            "id": null,
+            "prefLabel": "UI/UX Prototyping"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Scraping"
+          }
+        ],
+        "hourlyBudgetMin": 15,
+        "hourlyBudgetMax": 25
+      },
+      {
+        "id": null,
+        "ciphertext": "~021996905695043334319",
+        "title": "AI UGC Video Generator - n8n Workflow",
+        "description": "Main Goal: Build a new n8n workflow that can automatically create 30–40 second product videos: \nThe system will generate realistic product videos that show the item in use, with an \noptional presenter (real human face). We are in need of 2 different workflows.\n\nWorkflows must:\n\nAccept product reference images and packaging files as input.\n\nIdentify the product using visuals, packaging text, or user-provided text.\n\nGenerate a script and visuals for a 30–40s video.\n\nUse a tool capable of creating realistic, imperfect human faces.\n\nProduce real, imperfect, professional-looking images and videos.\n\nAutomatically save the final UGC video to Google Drive.\n\n\n\nPlease find the task description in the PDF attached.",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-05T11:33:13+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Agent Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "CRM Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Artificial Intelligence"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Services"
+          },
+          {
+            "id": null,
+            "prefLabel": "AI Content Creation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Make.com"
+          },
+          {
+            "id": null,
+            "prefLabel": "n8n"
+          },
+          {
+            "id": null,
+            "prefLabel": "OpenAI API"
+          },
+          {
+            "id": null,
+            "prefLabel": "Business Process Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Lead Generation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Google Ads"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Social Media Marketing Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Omnichannel Automation"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022005664656839048082",
+        "title": "Zoho Automations Specialist Needed",
+        "description": "We are looking for a skilled Zoho Automations specialist to help streamline our workflow through automation. The ideal candidate will have experience in configuring and implementing various Zoho modules to enhance productivity and efficiency. You will be responsible for analyzing our current processes, identifying automation opportunities, and developing tailored solutions using Zoho's automation tools. Strong problem-solving skills and a deep understanding of Zoho’s ecosystem are essential. If you have a proven track record in automating workflows within Zoho, we want to hear from you!",
+        "engagement": "Hours to be determined",
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-12-29T15:38:12+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Zoho CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Automation"
+          },
+          {
+            "id": null,
+            "prefLabel": "Zoho Creator"
+          },
+          {
+            "id": null,
+            "prefLabel": "Customer Relationship Management"
+          },
+          {
+            "id": null,
+            "prefLabel": "Email Campaign Setup"
+          }
+        ],
+        "hourlyBudgetMin": 5,
+        "hourlyBudgetMax": 7
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": true
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 8
+},
+{
+  "id": 9,
+  "type": "detail",
+  "type_description": "return public detail job info",
+  "title": "Automation Engineer Needed for AI Receptionist Development",
+  "link": "https://www.upwork.com/jobs/~022017478893584919284",
+  "data": {
+    "opening": {
+      "status": "ACTIVE",
+      "postedOn": "2026-01-31T06:03:46.123Z",
+      "publishTime": "2026-01-31T06:22:37.702Z",
+      "sourcingTime": null,
+      "startDate": null,
+      "deliveryDate": null,
+      "workload": "Less than 30 hrs/week",
+      "contractorTier": "INTERMEDIATE",
+      "description": "Role: Automation Engineer – AI Receptionist & Experience Systems\n\nWe are looking for an experienced Automation Engineer with deep proficiency in n8n and GoHighLevel (GHL) to help design and build an AI-powered receptionist system for healthcare and wellness businesses, starting with chiropractic and expanding into adjacent clinical niches.\n\nThis role is not about building a basic chatbot or call handler. The goal is to design and implement experience-driven automation systems that remove operational friction while preserving and enhancing trust, reassurance, and human connection throughout the customer journey.\n\nYou will work closely with our team to translate real business needs and experience design principles into reliable, scalable automation workflows. The AI receptionist you help build will act as the first point of contact for patients or clients, handling scheduling, intake, follow-up, and routing in a way that feels intentional, calm, and human-centered.\n\nWhat You’ll Be Working On\n\nDesigning and implementing AI receptionist workflows using n8n as the orchestration layer and GHL as the CRM, funnel, and communications backbone.\n\nBuilding intelligent call, SMS, and form-based flows that:\n\nCapture and qualify inbound leads.\n\nSchedule appointments dynamically.\n\nHandle common questions and intake steps.\n\nEscalate to humans when emotional nuance, clinical sensitivity, or uncertainty is detected.\n\nIntegrating AI models (voice and text) in ways that support clarity, reassurance, and trust, rather than replacing human judgment.\n\nDesigning systems that support the full client journey, not just the first touchpoint, including:\n\nPre-visit education and expectation setting.\n\nPost-visit follow-up and adherence.\n\nOngoing communication loops that reduce no-shows and drop-off.\n\nCreating workflows that return structured data to the business so owners and managers can understand:\n\nWhere clients are getting stuck.\n\nWhich touchpoints matter most.\n\nHow automation is impacting experience metrics, not just operational metrics.\n\nHow Experience Design Shapes This Role\n\nOur philosophy is that automation should free humans to be more human, not remove them from the process. That means:\n\nLow-empathy, repetitive tasks (scheduling, reminders, basic intake) are ideal for automation.\n\nHigh-empathy moments (clinical questions, anxiety, decision-making) should be protected and routed to people.\n\nSystems must be designed with clear escalation paths, tone control, and transparency so clients know when they are interacting with AI and feel confident doing so.\n\nAs an Automation Engineer on this project, you will be expected to think beyond “does it work?” and ask:\n\nDoes this reduce friction?\n\nDoes this improve clarity?\n\nDoes this increase trust?\n\nDoes this give staff more capacity to deliver a better in-person experience?\n\nRequired Skills and Experience\n\nStrong hands-on experience with n8n, including complex multi-step workflows, branching logic, error handling, and external API integrations.\n\nStrong working knowledge of GoHighLevel, including:\n\nCRM objects and pipelines.\n\nCampaigns and automations.\n\nWebhooks and API usage.\n\nCalendar and booking systems.\n\nExperience integrating AI services (voice or text), including prompt design, variable handling, and context passing.\n\nComfort working with structured data and designing systems that return clean, actionable outputs.\n\nAbility to reason through edge cases and failure modes, especially in customer-facing automation.\n\nClear communication skills and comfort collaborating closely with non-technical stakeholders.\n\nNice-to-Have Experience\n\nPrior work in healthcare, wellness, or service-based businesses.\n\nFamiliarity with experience design concepts such as customer journey mapping, service blueprints, or human-centered design.\n\nExperience building systems where trust, privacy, and emotional context matter.\n\nUnderstanding of HIPAA-adjacent constraints (even if not fully regulated systems).\n\nWhat Success Looks Like\n\nThe AI receptionist reduces operational load without increasing client frustration.\n\nBusinesses report improved responsiveness, fewer missed opportunities, and calmer internal workflows.\n\nClients feel guided and reassured rather than processed.\n\nOwners gain visibility into their operations and client experience through clean data and feedback loops.\n\nThe system scales across multiple clinics without losing consistency or quality.\n\nWhy This Role Matters\n\nThis work sits at the intersection of automation, AI, and experience design. We are not building tools for their own sake. We are building systems that help business owners move out of survival mode and into a role where they can focus on care, coaching, and transformation.\n\nIf you are passionate about automation, enjoy building thoughtful systems, and want your work to have a direct impact on how real people experience healthcare and wellness services, we would love to talk.",
+      "info": {
+        "ciphertext": "~022017478893584919284",
+        "id": "2017478893584919284",
+        "type": "HOURLY",
+        "access": "PUBLIC_INDEX",
+        "title": "Automation Engineer Needed for AI Receptionist Development",
+        "hideBudget": false,
+        "createdOn": "2026-01-31T06:03:46.123Z",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "notSureLocationPreference": false,
+        "premium": false
+      },
+      "segmentationData": [
+        {
+          "customValue": null,
+          "label": "Ongoing project",
+          "name": "Employment",
+          "sortOrder": 1,
+          "type": "EMPLOYMENT",
+          "value": "EMPLOYMENT_POSITION",
+          "skill": null
+        }
+      ],
+      "sandsData": {
+        "occupation": {
+          "freeText": null,
+          "ontologyId": "upworkOccupation:fullstackdevelopment",
+          "prefLabel": "Full Stack Development",
+          "id": "1110580755107926016",
+          "uid": "1110580755107926016"
+        },
+        "ontologySkills": null,
+        "additionalSkills": [
+          {
+            "groupId": null,
+            "id": "996364628025274386",
+            "freeText": null,
+            "prefLabel": "Python",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626716094119936",
+            "freeText": null,
+            "prefLabel": "Artificial Intelligence",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626723769696256",
+            "freeText": null,
+            "prefLabel": "Chatbot Development",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626755474440192",
+            "freeText": null,
+            "prefLabel": "Machine Learning",
+            "relevance": "MANDATORY"
+          },
+          {
+            "groupId": null,
+            "id": "1031626753582809088",
+            "freeText": null,
+            "prefLabel": "Lead Generation",
+            "relevance": "MANDATORY"
+          }
+        ]
+      },
+      "category": {
+        "name": "Web Development",
+        "urlSlug": "web-development"
+      },
+      "categoryGroup": {
+        "name": "Web, Mobile & Software Dev",
+        "urlSlug": "web-mobile-software-dev"
+      },
+      "budget": {
+        "amount": 0,
+        "currencyCode": "USD"
+      },
+      "annotations": {
+        "tags": [
+          "jpgV2Generated",
+          "firstJobPost",
+          "searchable"
+        ]
+      },
+      "engagementDuration": {
+        "label": "1 to 3 months",
+        "weeks": 9
+      },
+      "extendedBudgetInfo": {
+        "hourlyBudgetMin": null,
+        "hourlyBudgetMax": null,
+        "hourlyBudgetType": "NOT_PROVIDED"
+      },
+      "clientActivity": {
+        "lastBuyerActivity": "2026-01-31T06:03:46.092Z",
+        "totalApplicants": 22,
+        "totalHired": 0,
+        "totalInvitedToInterview": 0,
+        "unansweredInvites": 0,
+        "invitationsSent": 0,
+        "numberOfPositionsToHire": 1,
+        "interviewRatio": "0%",
+        "lastOnlineTime": "2 days ago"
+      },
+      "deliverables": null,
+      "deadline": null,
+      "tools": []
+    },
+    "qualifications": {
+      "countries": null,
+      "earnings": null,
+      "groupRecno": null,
+      "languages": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "localMarket": true,
+      "minJobSuccessScore": 0,
+      "minOdeskHours": 0,
+      "onSiteType": null,
+      "prefEnglishSkill": "ANY",
+      "regions": null,
+      "risingTalent": false,
+      "shouldHavePortfolio": false,
+      "states": null,
+      "tests": null,
+      "timezones": null,
+      "type": "ANY",
+      "locationCheckRequired": false,
+      "group": null,
+      "location": null,
+      "locations": null,
+      "minHoursWeek": 30
+    },
+    "buyer": {
+      "location": {
+        "offsetFromUtcMillis": -21600000,
+        "countryTimezone": "America/Chicago (UTC-06:00)",
+        "city": null,
+        "country": "United States"
+      },
+      "stats": {
+        "totalAssignments": 0,
+        "activeAssignmentsCount": 0,
+        "hoursCount": 0,
+        "feedbackCount": 0,
+        "score": 0,
+        "totalJobsWithHires": 0,
+        "totalCharges": null
+      },
+      "company": {
+        "isEDCReplicated": null,
+        "contractDate": "2026-01-31T00:00:00.000Z",
+        "profile": {
+          "industry": "Tech & IT",
+          "size": 2
+        }
+      },
+      "jobs": {
+        "openCount": 1,
+        "openJobs": [
+          {
+            "id": "2017478893584919284",
+            "uid": "2017478893584919284",
+            "isPtcPrivate": false,
+            "ciphertext": "~022017478893584919284",
+            "title": "Automation Engineer Needed for AI Receptionist Development",
+            "type": "HOURLY"
+          }
+        ]
+      }
+    },
+    "similarJobs": [
+      {
+        "id": null,
+        "ciphertext": "~021976974039060015415",
+        "title": "SAP HCM / ABAP / Cloud Integration Experts for German Enterprise Projects in Bangalore",
+        "description": "JoinNOW is a company that connects German businesses with AI-vetted tech professionals and manages hiring, compliance, and onboarding for enterprise clients in the DACH region. They are expanding their India-based SAP delivery capability for ongoing German enterprise-grade SAP projects, with operations centered in Bangalore.\n\nWe are assisting JoinNOW in identifying senior SAP experts based in India for full-time collaboration, working from Bangalore (on-site or hybrid).\n\nWe're Looking For:\n- SAP HCM Expert (German HR/payroll compliance exposure is a plus)\n- SAP Cloud Integration Specialist (CPI / PI / PO)\n- SAP ABAP Developer\n- Any SAP consultant with deep enterprise-level implementation experience\n\nIdeal Candidate Profile:\n1. Based in India, open to working from Bangalore\n2. Experience working with German or DACH-region enterprise clients\n3. Familiar with German delivery standards — structured documentation, precision, and timeline reliability\n4. Strong communication in English (German language skills are welcome but optional)\n5. Looking for long-term enterprise engagement\n\nWhen Applying, Please Include\n- Your SAP specialization(s)\n- Example of German/DACH client work you've done\n- Confirmation that you are open to Bangalore-based full-time engagement\n- Your expected monthly rate range for enterprise collaboration\n\nThis initiative aims to form long-term SAP delivery teams supporting German enterprise accounts through JoinNOW.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "More than 6 months",
+        "contractorTier": "EXPERT",
+        "type": "HOURLY",
+        "createdOn": "2025-10-11T11:31:56+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "SAP"
+          },
+          {
+            "id": null,
+            "prefLabel": "German"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021991128768331548246",
+        "title": "Software developer expert in n8n, WhatsApp, and AI Automation",
+        "description": "We are seeking an expert to help us with automation and integration tasks using Make.com, WhatsApp, and n8n. The ideal candidate will have extensive experience in setting up and managing workflows, ensuring seamless communication and data flow between different platforms.",
+        "engagement": "30+ hrs/week",
+        "durationLabel": "More than 6 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-11-19T12:57:46+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "PHP"
+          },
+          {
+            "id": null,
+            "prefLabel": "JavaScript"
+          },
+          {
+            "id": null,
+            "prefLabel": "HTML5"
+          },
+          {
+            "id": null,
+            "prefLabel": "Internet Marketing"
+          },
+          {
+            "id": null,
+            "prefLabel": "n8n"
+          },
+          {
+            "id": null,
+            "prefLabel": "Make.com"
+          },
+          {
+            "id": null,
+            "prefLabel": "WhatsApp"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~021991600064513345110",
+        "title": "Software Developer",
+        "description": "see attached see attached see attached see attached see attached see attached see attached see attached",
+        "engagement": "Less than 30 hrs/week",
+        "durationLabel": "Less than 1 month",
+        "contractorTier": "INTERMEDIATE",
+        "type": "HOURLY",
+        "createdOn": "2025-11-20T20:10:32+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 0
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "ASP.NET MVC"
+          },
+          {
+            "id": null,
+            "prefLabel": "Django"
+          },
+          {
+            "id": null,
+            "prefLabel": "Python"
+          },
+          {
+            "id": null,
+            "prefLabel": "AngularJS"
+          },
+          {
+            "id": null,
+            "prefLabel": "JavaScript"
+          },
+          {
+            "id": null,
+            "prefLabel": "jQuery"
+          },
+          {
+            "id": null,
+            "prefLabel": "WordPress"
+          },
+          {
+            "id": null,
+            "prefLabel": "Google Chrome Extension"
+          },
+          {
+            "id": null,
+            "prefLabel": "React"
+          },
+          {
+            "id": null,
+            "prefLabel": "CRM Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "Microsoft Dynamics 365"
+          },
+          {
+            "id": null,
+            "prefLabel": "Microsoft Dynamics CRM"
+          },
+          {
+            "id": null,
+            "prefLabel": "Microsoft Dynamics Development"
+          },
+          {
+            "id": null,
+            "prefLabel": "Microsoft PowerApps"
+          },
+          {
+            "id": null,
+            "prefLabel": "Single Sign-On"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      },
+      {
+        "id": null,
+        "ciphertext": "~022002252503845259300",
+        "title": "Experienced Python Developer Needed for Ongoing Projects",
+        "description": "We are seeking a skilled Python developer to join our team for various ongoing projects. The ideal candidate should have strong programming skills and experience in developing scalable applications. You will be responsible for writing clean, maintainable code and collaborating with other team members to deliver solutions on time. If you are passionate about technology and eager to work in a dynamic environment, we would love to hear from you!\n\nAlso should be well versed and seasoned player on no code low code tools like n8n, make.com, zapier",
+        "engagement": null,
+        "durationLabel": "1 to 3 months",
+        "contractorTier": "INTERMEDIATE",
+        "type": "FIXED",
+        "createdOn": "2025-12-20T05:39:31+0000",
+        "renewedOn": null,
+        "amount": {
+          "amount": 200
+        },
+        "maxAmount": null,
+        "ontologySkills": [
+          {
+            "id": null,
+            "prefLabel": "Python"
+          },
+          {
+            "id": null,
+            "prefLabel": "JavaScript"
+          },
+          {
+            "id": null,
+            "prefLabel": "API"
+          },
+          {
+            "id": null,
+            "prefLabel": "HTML"
+          },
+          {
+            "id": null,
+            "prefLabel": "Web Development"
+          }
+        ],
+        "hourlyBudgetMin": 0,
+        "hourlyBudgetMax": 0
+      }
+    ],
+    "buyerExtra": {
+      "isPaymentMethodVerified": false
+    }
+  },
+  "related_search": "n8n automation",
+  "related_sort": "recency",
+  "related_sort_id": 9
+}]
