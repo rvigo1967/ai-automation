@@ -111,5 +111,35 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - **Notifications:** Telegram
 - **Workflow Type:** Scheduled Automation
 
-  
+## 🧩 Challenges & Engineering Decisions
+**✅ What Worked Well**
+
+- Apify integration provided clean job data
+- Fully automated end-to-end workflow
+- Consistent, high-quality AI-generated proposals
+
+**⚠️ Challenges**
+
+- Designing accurate client scoring logic
+- Handling incomplete or inconsistent client data
+- Prompt tuning for AI job scoring reliability
+- Telegram formatting and notification flow
+
+**🔧 Improvements (Next Iteration)**
+
+- Add feedback loop based on proposal success
+- Improve scoring using historical performance data
+- Build analytics dashboard (conversion tracking)
+- Expand notifications (Slack / Email)
+- Automate proposal submission
+
+🔮 Future Enhancements
+
+📊 Performance dashboards (Power BI / Tableau)
+
+🤖 Self-learning scoring model
+
+📬 Multi-channel notifications
+
+🧠 Advanced job matching (semantic search)  
 
