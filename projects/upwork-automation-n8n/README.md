@@ -57,13 +57,12 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
      - Job type
      - Client quality
 
-Outputs:
+- Outputs:
 
-Score (1–5)
+     - Score (1–5)
+     - Explanation for transparency
 
-Explanation for transparency
-
-✍️ AI Proposal Generation
+**✍️ AI Proposal Generation**
 
 Rewrites a high-conversion proposal template
 
