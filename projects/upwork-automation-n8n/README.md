@@ -68,7 +68,7 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - Customizes content per job description
 - Maintains consistent tone and structure
 
-📊 Centralized Tracking
+**📊 Centralized Tracking**
 
 Stores approved jobs in Google Sheets
 
