@@ -70,17 +70,13 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 **📊 Centralized Tracking**
 
-Stores approved jobs in Google Sheets
+- Stores approved jobs in **Google Sheets**
+- Includes:
 
-Includes:
-
-Job details
-
-Scores
-
-Generated proposal
-
-Direct links
+     - Job details
+     - Scores
+     - Generated proposal
+     - Direct links
 
 📩 Real-Time Notifications
 
