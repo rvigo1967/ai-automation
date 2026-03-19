@@ -2,14 +2,14 @@
 This project automates the end-to-end process of invoice reporting using UiPath and AI-powered capabilities. It replaces manual invoice review workflows with a scalable, efficient, and accurate automation pipeline.
 
 ## 🧠Problem
-Organizations often rely on manual processes to review invoices, which leads to:
+**Organizations often rely on manual processes to review invoices, which leads to:**
 
 - Time-consuming data entry
 - Higher risk of human error
 - Lack of structured reporting
 - Delayed financial insights
 
-The goal was to build an automated workflow that:
+**The goal was to build an automated workflow that:**
 
 - Reads invoices from Google Drive
 - Extracts key invoice fields
