@@ -35,15 +35,12 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 **📊 Intelligent Client Scoring**
 
-Weighted scoring system (0–5 scale):
+- Weighted scoring system (0–5 scale):
 
-⭐ Rating (35%)
-
-📈 Hire rate (25%)
-
-💰 Spend (20%)
-
-🔁 Repeat hires (10%)
+     - ⭐ Rating (35%)
+     - 📈 Hire rate (25%)
+     -💰 Spend (20%)
+     - 🔁 Repeat hires (10%)
 
 ✔️ Payment verification (10%)
 
