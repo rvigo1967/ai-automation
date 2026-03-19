@@ -64,11 +64,9 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 
 **✍️ AI Proposal Generation**
 
-Rewrites a high-conversion proposal template
-
-Customizes content per job description
-
-Maintains consistent tone and structure
+- Rewrites a high-conversion proposal template
+- Customizes content per job description
+- Maintains consistent tone and structure
 
 📊 Centralized Tracking
 
