@@ -3,6 +3,6 @@
 
 ## 📌 Overview
 
-This project automates the **entire Upwork job acquisition pipeline**—from job discovery to proposal generation—using n8n workflows, AI, and structured scoring logic.
+This project automates the **entire Upwork job acquisition pipeline**—from job discovery to proposal generation—using **n8n workflows, AI, and structured scoring logic.**
 
 Instead of manually searching and applying to jobs, the system identifies high-quality opportunities, scores them intelligently, and generates tailored proposals automatically.
