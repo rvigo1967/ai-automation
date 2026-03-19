@@ -140,3 +140,11 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - 📬 Multi-channel notifications
 - 🧠 Advanced job matching (semantic search)  
 
+## 📁 Project Structure
+
+📦 upwork-automation-n8n
+ ┣ 📂 workflows/        # n8n workflow exports
+ ┣ 📂 data/             # Sample job data
+ ┣ 📂 output/           # Results / screenshots
+ ┣ 📄 README.md
+
