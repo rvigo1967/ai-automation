@@ -18,20 +18,7 @@ The solution processes invoices from ingestion to reporting, eliminating repetit
 Automate invoice processing and generate a structured report of invoices due by September 22, 2025, with intelligent validation and summaries.
 
 ## 💡Solution
-
-📂 Google Drive (Invoices)
-        ↓
-📥 UiPath Document Understanding
-        ↓
-🔍 Data Extraction (Key Fields)
-        ↓
-⚠️ Confidence Validation
-        ↓
-🤖 AI Description Generation
-        ↓
-📅 Due Date Filtering
-        ↓
-📊 Google Sheets Reporting
+**The solution leverages UiPath Document Understanding and Generative AI to automate invoice processing:**
 
 ## 📊 Structured Output
 Writes clean, organized data into Google Sheets
