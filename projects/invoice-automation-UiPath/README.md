@@ -88,6 +88,7 @@ Writes clean, organized data into Google Sheets
 
 ## 🚀Future Improvements
 
-Add visual dashboards (Looker Studio/Power BI) for trend analysis
-Integrate Slack or Teams alerts for faster response
-Expand to multilingual sentiment analysis for global feedback
+- 📊 Dashboard integration (Power BI / Tableau)
+- 📧 Email alerts for flagged invoices
+- 🧠 Advanced NLP for deeper invoice insights
+- 🌍 Multi-format invoice support
