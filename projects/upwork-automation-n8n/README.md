@@ -24,7 +24,7 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 ## 💡 Solution Architecture
 🔄 End-to-End Workflow (Mermaid)
 
-![Architecture](projects/upwork-automation-n8n/workflows/n8narchitecturediagram.png)
+![Architecture](./workflows/n8narchitecturediagram.png)
 
 ## 🧠 Key Features
 
