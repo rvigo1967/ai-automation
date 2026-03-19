@@ -41,14 +41,12 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
      - 📈 Hire rate (25%)
      -💰 Spend (20%)
      - 🔁 Repeat hires (10%)
+     -✔️ Payment verification (10%)
 
-✔️ Payment verification (10%)
+**⚠️ Quality Filtering**
 
-⚠️ Quality Filtering
-
-Automatically filters out low-quality clients
-
-Only processes jobs with client score > 4
+- Automatically filters out low-quality clients
+- Only processes jobs with client score > 4
 
 🧠 AI Job Relevance Scoring
 
