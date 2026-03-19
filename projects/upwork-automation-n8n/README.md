@@ -133,13 +133,10 @@ Build a system that focuses only on **high-value, high-fit jobs** and automates 
 - Expand notifications (Slack / Email)
 - Automate proposal submission
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
-📊 Performance dashboards (Power BI / Tableau)
-
-🤖 Self-learning scoring model
-
-📬 Multi-channel notifications
-
-🧠 Advanced job matching (semantic search)  
+- 📊 Performance dashboards (Power BI / Tableau)
+- 🤖 Self-learning scoring model
+- 📬 Multi-channel notifications
+- 🧠 Advanced job matching (semantic search)  
 
